@@ -1,0 +1,5552 @@
+[
+ {
+   "model": "outlander 450 viper red 0005apa00*",
+   "model1": "outlander 450",
+   "color": "viper red",
+   "modelCode": "05APA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "7999"
+ },
+ {
+   "model": "outlander 450 tundra green 0005apb00*",
+   "model1": "outlander 450",
+   "color": "tundra green",
+   "modelCode": "05APB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "7999"
+ },
+ {
+   "model": "outlander 570 viper red 0002tpa00*",
+   "model1": "outlander 570",
+   "color": "viper red",
+   "modelCode": "02TPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "8899"
+ },
+ {
+   "model": "outlander 570 tundra green 0002tpb00*",
+   "model1": "outlander 570",
+   "color": "tundra green",
+   "modelCode": "02TPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "8899"
+ },
+ {
+   "model": "outlander dps 450 granite gray 0002wpa00*",
+   "model1": "outlander dps 450",
+   "color": "granite gray",
+   "modelCode": "02WPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9199"
+ },
+ {
+   "model": "outlander dps 450 tundra green 0002wpb00*",
+   "model1": "outlander dps 450",
+   "color": "tundra green",
+   "modelCode": "02WPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9199"
+ },
+ {
+   "model": "outlander dps 450 mossy oak break-up country camo 0002wpc00*",
+   "model1": "outlander dps 450",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "02WPC",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9799"
+ },
+ {
+   "model": "outlander dps 570 granite gray 0002cpa00*",
+   "model1": "outlander dps 570",
+   "color": "granite gray",
+   "modelCode": "02CPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10099"
+ },
+ {
+   "model": "outlander dps 570 tundra green 0002cpb00*",
+   "model1": "outlander dps 570",
+   "color": "tundra green",
+   "modelCode": "02CPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10099"
+ },
+ {
+   "model": "outlander dps 570 mossy oak break-up country camo 0002cpc00*",
+   "model1": "outlander dps 570",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "02CPC",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10699"
+ },
+ {
+   "model": "outlander xt 570 boreal green 0002upa00*",
+   "model1": "outlander xt 570",
+   "color": "boreal green",
+   "modelCode": "02UPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11399"
+ },
+ {
+   "model": "outlander xt 570 oxford blue 0002upb00*",
+   "model1": "outlander xt 570",
+   "color": "oxford blue",
+   "modelCode": "02UPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11399"
+ },
+ {
+   "model": "outlander hunting edition 450 mossy oak break-up country camo 0002vpa00*",
+   "model1": "outlander hunting edition 450",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "02VPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11549"
+ },
+ {
+   "model": "outlander hunting edition 570 mossy oak break-up country camo 0003zpa00*",
+   "model1": "outlander hunting edition 570",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "03ZPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "12349"
+ },
+ {
+   "model": "outlander mr 570 viper red 0001rpa00*",
+   "model1": "outlander mr 570",
+   "color": "viper red",
+   "modelCode": "01RPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9999"
+ },
+ {
+   "model": "outlander x mr 570 desert tan 0003mpa00*",
+   "model1": "outlander x mr 570",
+   "color": "desert tan",
+   "modelCode": "03MPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11749"
+ },
+ {
+   "model": "outlander 500 2wd legion red 0001kpb00",
+   "model1": "outlander 500 2wd",
+   "color": "legion red",
+   "modelCode": "01KPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "7999"
+ },
+ {
+   "model": "outlander 500 granite gray 0001bpa00",
+   "model1": "outlander 500",
+   "color": "granite gray",
+   "modelCode": "01BPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "8699"
+ },
+ {
+   "model": "outlander 500 legion red 0001bpb00",
+   "model1": "outlander 500",
+   "color": "legion red",
+   "modelCode": "01BPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "8699"
+ },
+ {
+   "model": "outlander 700 granite gray 0001cpa00",
+   "model1": "outlander 700",
+   "color": "granite gray",
+   "modelCode": "01CPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9399"
+ },
+ {
+   "model": "outlander 700 legion red 0001cpb00",
+   "model1": "outlander 700",
+   "color": "legion red",
+   "modelCode": "01CPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9399"
+ },
+ {
+   "model": "outlander dps 500 granite gray 0001dpa00",
+   "model1": "outlander dps 500",
+   "color": "granite gray",
+   "modelCode": "01DPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9999"
+ },
+ {
+   "model": "outlander dps 500 legion red 0001dpb00",
+   "model1": "outlander dps 500",
+   "color": "legion red",
+   "modelCode": "01DPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9999"
+ },
+ {
+   "model": "outlander dps 500 wildland camo 0001dpc00",
+   "model1": "outlander dps 500",
+   "color": "wildland camo",
+   "modelCode": "01DPC",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10699"
+ },
+ {
+   "model": "outlander dps 700 granite gray 0001epa00",
+   "model1": "outlander dps 700",
+   "color": "granite gray",
+   "modelCode": "01EPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10699"
+ },
+ {
+   "model": "outlander dps 700 legion red 0001epb00",
+   "model1": "outlander dps 700",
+   "color": "legion red",
+   "modelCode": "01EPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10699"
+ },
+ {
+   "model": "outlander dps 700 wildland camo 0001epc00",
+   "model1": "outlander dps 700",
+   "color": "wildland camo",
+   "modelCode": "01EPC",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11399"
+ },
+ {
+   "model": "outlander xt 700 platinum satin 0001gpa00",
+   "model1": "outlander xt 700",
+   "color": "platinum satin",
+   "modelCode": "01GPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11999"
+ },
+ {
+   "model": "outlander xt 700 neo yellow 0001gpb00",
+   "model1": "outlander xt 700",
+   "color": "neo yellow",
+   "modelCode": "01GPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11999"
+ },
+ {
+   "model": "outlander pro hd5 desert tan 0001hpa00",
+   "model1": "outlander pro hd5",
+   "color": "desert tan",
+   "modelCode": "01HPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9099"
+ },
+ {
+   "model": "outlander pro hd5 tundra green 0001hpf00",
+   "model1": "outlander pro hd5",
+   "color": "tundra green",
+   "modelCode": "01HPF",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9099"
+ },
+ {
+   "model": "outlander pro hd7 desert tan 0001jpa00",
+   "model1": "outlander pro hd7",
+   "color": "desert tan",
+   "modelCode": "01JPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9799"
+ },
+ {
+   "model": "outlander pro hd7 tundra green 0001jpb00",
+   "model1": "outlander pro hd7",
+   "color": "tundra green",
+   "modelCode": "01JPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9799"
+ },
+ {
+   "model": "outlander pro xu hd5 desert tan 0001lpa00",
+   "model1": "outlander pro xu hd5",
+   "color": "desert tan",
+   "modelCode": "01LPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10899"
+ },
+ {
+   "model": "outlander pro xu hd5 tundra green 0001lpb00",
+   "model1": "outlander pro xu hd5",
+   "color": "tundra green",
+   "modelCode": "01LPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10899"
+ },
+ {
+   "model": "outlander pro xu hd7 desert tan 0001mpa00",
+   "model1": "outlander pro xu hd7",
+   "color": "desert tan",
+   "modelCode": "01MPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11599"
+ },
+ {
+   "model": "outlander pro xu hd7 tundra green 0001mpb00",
+   "model1": "outlander pro xu hd7",
+   "color": "tundra green",
+   "modelCode": "01MPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11599"
+ },
+ {
+   "model": "outlander pro hunting edition hd5 wildland camo 0001npa00",
+   "model1": "outlander pro hunting edition hd5",
+   "color": "wildland camo",
+   "modelCode": "01NPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "12499"
+ },
+ {
+   "model": "outlander pro hunting edition hd7 wildland camo 0001ppa00",
+   "model1": "outlander pro hunting edition hd7",
+   "color": "wildland camo",
+   "modelCode": "01PPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "13399"
+ },
+ {
+   "model": "outlander max dps 500 granite gray 0001vpa00",
+   "model1": "outlander max dps 500",
+   "color": "granite gray",
+   "modelCode": "01VPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11499"
+ },
+ {
+   "model": "outlander max dps 500 legion red 0001vpb00",
+   "model1": "outlander max dps 500",
+   "color": "legion red",
+   "modelCode": "01VPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11499"
+ },
+ {
+   "model": "outlander max dps 700 granite gray 0001wpa00",
+   "model1": "outlander max dps 700",
+   "color": "granite gray",
+   "modelCode": "01WPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "12199"
+ },
+ {
+   "model": "outlander max dps 700 legion red 0001wpb00",
+   "model1": "outlander max dps 700",
+   "color": "legion red",
+   "modelCode": "01WPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "12199"
+ },
+ {
+   "model": "outlander max xt 700 platinum satin 0001ypa00",
+   "model1": "outlander max xt 700",
+   "color": "platinum satin",
+   "modelCode": "01YPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "13499"
+ },
+ {
+   "model": "outlander max xt 700 neo yellow 0001ypb00",
+   "model1": "outlander max xt 700",
+   "color": "neo yellow",
+   "modelCode": "01YPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "13499"
+ },
+ {
+   "model": "outlander 850 viper red 0002hpa00",
+   "model1": "outlander 850",
+   "color": "viper red",
+   "modelCode": "02HPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "12499"
+ },
+ {
+   "model": "outlander dps 850 granite gray 0002ape00",
+   "model1": "outlander dps 850",
+   "color": "granite gray",
+   "modelCode": "02APE",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "13799"
+ },
+ {
+   "model": "outlander xt 850 mossy oak break-up country camo 0002jpd00",
+   "model1": "outlander xt 850",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "02JPD",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "15299"
+ },
+ {
+   "model": "outlander xt 850 platinum satin 0002jpe00",
+   "model1": "outlander xt 850",
+   "color": "platinum satin",
+   "modelCode": "02JPE",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "15099"
+ },
+ {
+   "model": "outlander xt 850 oxford blue 0002jpf00",
+   "model1": "outlander xt 850",
+   "color": "oxford blue",
+   "modelCode": "02JPF",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "15099"
+ },
+ {
+   "model": "outlander xt 1000r platinum satin 0005tpd00",
+   "model1": "outlander xt 1000r",
+   "color": "platinum satin",
+   "modelCode": "05TPD",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16799"
+ },
+ {
+   "model": "outlander xt 1000r oxford blue 0005tpe00",
+   "model1": "outlander xt 1000r",
+   "color": "oxford blue",
+   "modelCode": "05TPE",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16799"
+ },
+ {
+   "model": "outlander xt 1000r mossy oak break-up country camo 0005tpf00",
+   "model1": "outlander xt 1000r",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "05TPF",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16999"
+ },
+ {
+   "model": "outlander xt-p 850 iron gray & neo yellow 0005rpb00",
+   "model1": "outlander xt-p 850",
+   "color": "iron gray & neo yellow",
+   "modelCode": "05RPB",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "outlander xt-p 1000r iron gray & neo yellow 0005xpa00",
+   "model1": "outlander xt-p 1000r",
+   "color": "iron gray & neo yellow",
+   "modelCode": "05XPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "18699"
+ },
+ {
+   "model": "outlander x xc 1000r chalk gray & can-am red 0004mpa00",
+   "model1": "outlander x xc 1000r",
+   "color": "chalk gray & can-am red",
+   "modelCode": "04MPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "19399"
+ },
+ {
+   "model": "outlander hunting edition 850 mossy oak break-up country camo 0004spa00",
+   "model1": "outlander hunting edition 850",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "04SPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "15599"
+ },
+ {
+   "model": "outlander x mr 850 desert tan 0004kpa00",
+   "model1": "outlander x mr 850",
+   "color": "desert tan",
+   "modelCode": "04KPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16449"
+ },
+ {
+   "model": "outlander x mr 1000r desert tan 0005kpa00",
+   "model1": "outlander x mr 1000r",
+   "color": "desert tan",
+   "modelCode": "05KPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "18549"
+ },
+ {
+   "model": "outlander x mr 1000r liquid titanium & can-am red 0005kpb00",
+   "model1": "outlander x mr 1000r",
+   "color": "liquid titanium & can-am red",
+   "modelCode": "05KPB",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "19049"
+ },
+ {
+   "model": "outlander max 450 viper red 0005cpa00*",
+   "model1": "outlander max 450",
+   "color": "viper red",
+   "modelCode": "05CPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "9399"
+ },
+ {
+   "model": "outlander max 570 viper red 0002epa00*",
+   "model1": "outlander max 570",
+   "color": "viper red",
+   "modelCode": "02EPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10299"
+ },
+ {
+   "model": "outlander max dps 450 granite gray 0002xpa00*",
+   "model1": "outlander max dps 450",
+   "color": "granite gray",
+   "modelCode": "02XPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10599"
+ },
+ {
+   "model": "outlander max dps 450 tundra green 0002xpb00*",
+   "model1": "outlander max dps 450",
+   "color": "tundra green",
+   "modelCode": "02XPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "10599"
+ },
+ {
+   "model": "outlander max dps 570 granite gray 0002fpa00*",
+   "model1": "outlander max dps 570",
+   "color": "granite gray",
+   "modelCode": "02FPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11499"
+ },
+ {
+   "model": "outlander max dps 570 tundra green 0002fpb00*",
+   "model1": "outlander max dps 570",
+   "color": "tundra green",
+   "modelCode": "02FPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "11499"
+ },
+ {
+   "model": "outlander max xt 570 oxford blue 0002gpa00*",
+   "model1": "outlander max xt 570",
+   "color": "oxford blue",
+   "modelCode": "02GPA",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "12799"
+ },
+ {
+   "model": "outlander max xt 570 boreal green 0002gpb00*",
+   "model1": "outlander max xt 570",
+   "color": "boreal green",
+   "modelCode": "02GPB",
+   "freight": "600",
+   "commodity": "300",
+   "pdi": "695",
+   "msrp": "12799"
+ },
+ {
+   "model": "outlander max dps 850 granite gray 0002dpb00",
+   "model1": "outlander max dps 850",
+   "color": "granite gray",
+   "modelCode": "02DPB",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "15199"
+ },
+ {
+   "model": "outlander max xt 850 platinum satin 0002lpe00",
+   "model1": "outlander max xt 850",
+   "color": "platinum satin",
+   "modelCode": "02LPE",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16499"
+ },
+ {
+   "model": "outlander max xt 850 mossy oak break-up country camo 0002lpf00",
+   "model1": "outlander max xt 850",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "02LPF",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16699"
+ },
+ {
+   "model": "outlander max xt 850 oxford blue 0002lpg00",
+   "model1": "outlander max xt 850",
+   "color": "oxford blue",
+   "modelCode": "02LPG",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16499"
+ },
+ {
+   "model": "outlander max xt 1000r platinum satin 0005upc00",
+   "model1": "outlander max xt 1000r",
+   "color": "platinum satin",
+   "modelCode": "05UPC",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "18199"
+ },
+ {
+   "model": "outlander max xt 1000r oxford blue 0005upd00",
+   "model1": "outlander max xt 1000r",
+   "color": "oxford blue",
+   "modelCode": "05UPD",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "18199"
+ },
+ {
+   "model": "outlander max xt-p 850 iron gray & neo yellow 0005fpc00",
+   "model1": "outlander max xt-p 850",
+   "color": "iron gray & neo yellow",
+   "modelCode": "05FPC",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "18699"
+ },
+ {
+   "model": "outlander max xt-p 1000r iron gray & neo yellow 0005jpd00",
+   "model1": "outlander max xt-p 1000r",
+   "color": "iron gray & neo yellow",
+   "modelCode": "05JPD",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "20099"
+ },
+ {
+   "model": "outlander max limited 1000r stone gray 0005wpa00",
+   "model1": "outlander max limited 1000r",
+   "color": "stone gray",
+   "modelCode": "05WPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "19899"
+ },
+ {
+   "model": "outlander max 6x6 dps 450 tundra green 0004zpa00",
+   "model1": "outlander max 6x6 dps 450",
+   "color": "tundra green",
+   "modelCode": "04ZPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "12799"
+ },
+ {
+   "model": "outlander max 6x6 dps 650 tundra green 0005ypa00",
+   "model1": "outlander max 6x6 dps 650",
+   "color": "tundra green",
+   "modelCode": "05YPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "17699"
+ },
+ {
+   "model": "outlander max 6x6 max xt 1000 boreal green 0005zpa00",
+   "model1": "outlander max 6x6 max xt 1000",
+   "color": "boreal green",
+   "modelCode": "05ZPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "20599"
+ },
+ {
+   "model": "renegade 650 catalyst gray 0005ppb00",
+   "model1": "renegade 650",
+   "color": "catalyst gray",
+   "modelCode": "05PPB",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "12699"
+ },
+ {
+   "model": "renegade x mr 650 catalyst gray & neo yellow 0004tpa00",
+   "model1": "renegade x mr 650",
+   "color": "catalyst gray & neo yellow",
+   "modelCode": "04TPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "16149"
+ },
+ {
+   "model": "renegade x xc 1000r catalyst gray & neo yellow 0005vpa00",
+   "model1": "renegade x xc 1000r",
+   "color": "catalyst gray & neo yellow",
+   "modelCode": "05VPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "18799"
+ },
+ {
+   "model": "renegade x mr 1000r catalyst gray & neo yellow 0004fpa00",
+   "model1": "renegade x mr 1000r",
+   "color": "catalyst gray & neo yellow",
+   "modelCode": "04FPA",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "20349"
+ },
+ {
+   "model": "renegade x mr 1000r liquid titanium & can-am red 0004fpb00",
+   "model1": "renegade x mr 1000r",
+   "color": "liquid titanium & can-am red",
+   "modelCode": "04FPB",
+   "freight": "600",
+   "commodity": "450",
+   "pdi": "695",
+   "msrp": "20849"
+ },
+ {
+   "model": "renegade 70 efi catalyst gray & neo yellow 0003kpa00",
+   "model1": "renegade 70 efi",
+   "color": "catalyst gray & neo yellow",
+   "modelCode": "03KPA",
+   "freight": "300",
+   "commodity": "125",
+   "pdi": "695",
+   "msrp": "3699"
+ },
+ {
+   "model": "renegade 70 efi iceberg blue & black 0003kpb00",
+   "model1": "renegade 70 efi",
+   "color": "iceberg blue & black",
+   "modelCode": "03KPB",
+   "freight": "300",
+   "commodity": "125",
+   "pdi": "695",
+   "msrp": "3699"
+ },
+ {
+   "model": "renegade 110 efi catalyst gray & neo yellow 0003cpa00",
+   "model1": "renegade 110 efi",
+   "color": "catalyst gray & neo yellow",
+   "modelCode": "03CPA",
+   "freight": "300",
+   "commodity": "125",
+   "pdi": "695",
+   "msrp": "4299"
+ },
+ {
+   "model": "renegade 110 efi iceberg blue & black 0003cpb00",
+   "model1": "renegade 110 efi",
+   "color": "iceberg blue & black",
+   "modelCode": "03CPB",
+   "freight": "300",
+   "commodity": "125",
+   "pdi": "695",
+   "msrp": "4299"
+ },
+ {
+   "model": "renegade x xc 110 efi black & legion red 0003lpa00",
+   "model1": "renegade x xc 110 efi",
+   "color": "black & legion red",
+   "modelCode": "03LPA",
+   "freight": "300",
+   "commodity": "125",
+   "pdi": "695",
+   "msrp": "4899"
+ },
+ {
+   "model": "ds 250 black & can-am red 0003jpa00",
+   "model1": "ds 250",
+   "color": "black & can-am red",
+   "modelCode": "03JPA",
+   "freight": "600",
+   "commodity": "125",
+   "pdi": "695",
+   "msrp": "5449"
+ },
+ {
+   "model": "defender hd7 tundra green 0006xpb00",
+   "model1": "defender hd7",
+   "color": "tundra green",
+   "modelCode": "06XPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "14799"
+ },
+ {
+   "model": "defender dps hd7 tundra green 0008wpb00",
+   "model1": "defender dps hd7",
+   "color": "tundra green",
+   "modelCode": "08WPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "16899"
+ },
+ {
+   "model": "defender dps hd7 mossy oak break-up country camo 0008wpd00",
+   "model1": "defender dps hd7",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08WPD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "17499"
+ },
+ {
+   "model": "defender hd9 tundra green 0006wpb00",
+   "model1": "defender hd9",
+   "color": "tundra green",
+   "modelCode": "06WPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "18099"
+ },
+ {
+   "model": "defender dps hd9 tundra green 0008epb00",
+   "model1": "defender dps hd9",
+   "color": "tundra green",
+   "modelCode": "08EPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "19699"
+ },
+ {
+   "model": "defender dps hd9 oxford blue 0008epd00",
+   "model1": "defender dps hd9",
+   "color": "oxford blue",
+   "modelCode": "08EPD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20699"
+ },
+ {
+   "model": "defender dps hd9 timeless black 0008epf00",
+   "model1": "defender dps hd9",
+   "color": "timeless black",
+   "modelCode": "08EPF",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20699"
+ },
+ {
+   "model": "defender dps hd9 mossy oak break-up country camo 0008eph00",
+   "model1": "defender dps hd9",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08EPH",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20899"
+ },
+ {
+   "model": "defender xt hd9 oxford blue 0008fpb00",
+   "model1": "defender xt hd9",
+   "color": "oxford blue",
+   "modelCode": "08FPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22399"
+ },
+ {
+   "model": "defender xt hd9 stone gray 0008fpd00",
+   "model1": "defender xt hd9",
+   "color": "stone gray",
+   "modelCode": "08FPD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22399"
+ },
+ {
+   "model": "defender xt hd9 timeless black 0008fpf00",
+   "model1": "defender xt hd9",
+   "color": "timeless black",
+   "modelCode": "08FPF",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22399"
+ },
+ {
+   "model": "defender xt hd9 mossy oak break-up country camo 0008fph00",
+   "model1": "defender xt hd9",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08FPH",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22699"
+ },
+ {
+   "model": "defender dps cab hd9 tundra green 0008upb00",
+   "model1": "defender dps cab hd9",
+   "color": "tundra green",
+   "modelCode": "08UPB",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27899"
+ },
+ {
+   "model": "defender dps hd10 tundra green 0008bpb00",
+   "model1": "defender dps hd10",
+   "color": "tundra green",
+   "modelCode": "08BPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22699"
+ },
+ {
+   "model": "defender dps hd10 oxford blue 0008bpd00",
+   "model1": "defender dps hd10",
+   "color": "oxford blue",
+   "modelCode": "08BPD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "23299"
+ },
+ {
+   "model": "defender dps hd10 timeless black 0008bpf00",
+   "model1": "defender dps hd10",
+   "color": "timeless black",
+   "modelCode": "08BPF",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "23299"
+ },
+ {
+   "model": "defender xt hd10 oxford blue 0008cpb00",
+   "model1": "defender xt hd10",
+   "color": "oxford blue",
+   "modelCode": "08CPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25699"
+ },
+ {
+   "model": "defender xt hd10 stone gray 0008cpd00",
+   "model1": "defender xt hd10",
+   "color": "stone gray",
+   "modelCode": "08CPD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25699"
+ },
+ {
+   "model": "defender xt hd10 timeless black 0008cpf00",
+   "model1": "defender xt hd10",
+   "color": "timeless black",
+   "modelCode": "08CPF",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25699"
+ },
+ {
+   "model": "defender xt hd10 mossy oak break-up country camo 0008cph00",
+   "model1": "defender xt hd10",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08CPH",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25999"
+ },
+ {
+   "model": "defender x mr hd10 liquid titanium & magma red 0008ypb00",
+   "model1": "defender x mr hd10",
+   "color": "liquid titanium & magma red",
+   "modelCode": "08YPB",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "28199"
+ },
+ {
+   "model": "defender x mr hd10 mossy oak break-up country camo 0008ypc00",
+   "model1": "defender x mr hd10",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08YPC",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "28499"
+ },
+ {
+   "model": "defender x mr hd10 with half doors liquid titanium & magma red 0008ypa00",
+   "model1": "defender x mr hd10 with half doors",
+   "color": "liquid titanium & magma red",
+   "modelCode": "08YPA",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "29799"
+ },
+ {
+   "model": "defender limited cab hd10 oxford blue 0008jpb00",
+   "model1": "defender limited cab hd10",
+   "color": "oxford blue",
+   "modelCode": "08JPB",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34899"
+ },
+ {
+   "model": "defender limited cab hd10 stone gray 0008jpd00",
+   "model1": "defender limited cab hd10",
+   "color": "stone gray",
+   "modelCode": "08JPD",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34899"
+ },
+ {
+   "model": "defender limited cab hd10 desert tan & timeless black 0008jph00",
+   "model1": "defender limited cab hd10",
+   "color": "desert tan & timeless black",
+   "modelCode": "08JPH",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34999"
+ },
+ {
+   "model": "defender limited cab hd10 mossy oak break-up country camo 0008jpf00",
+   "model1": "defender limited cab hd10",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08JPF",
+   "freight": "1300",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "35299"
+ },
+ {
+   "model": "defender max hd7 tundra green 0008zpb00",
+   "model1": "defender max hd7",
+   "color": "tundra green",
+   "modelCode": "08ZPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "17899"
+ },
+ {
+   "model": "defender max hd9 tundra green 0008dpb00",
+   "model1": "defender max hd9",
+   "color": "tundra green",
+   "modelCode": "08DPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "19799"
+ },
+ {
+   "model": "defender max dps hd7 tundra green 0008ppd00",
+   "model1": "defender max dps hd7",
+   "color": "tundra green",
+   "modelCode": "08PPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "19999"
+ },
+ {
+   "model": "defender max dps hd9 tundra green 0008rpb00",
+   "model1": "defender max dps hd9",
+   "color": "tundra green",
+   "modelCode": "08RPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22299"
+ },
+ {
+   "model": "defender max dps hd9 timeless black 0008rpd00",
+   "model1": "defender max dps hd9",
+   "color": "timeless black",
+   "modelCode": "08RPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22899"
+ },
+ {
+   "model": "defender max dps hd9 mossy oak break-up country camo 0008rpf00",
+   "model1": "defender max dps hd9",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08RPF",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "23199"
+ },
+ {
+   "model": "defender max xt hd9 oxford blue 0008spb00",
+   "model1": "defender max xt hd9",
+   "color": "oxford blue",
+   "modelCode": "08SPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25199"
+ },
+ {
+   "model": "defender max xt hd9 stone gray 0008spd00",
+   "model1": "defender max xt hd9",
+   "color": "stone gray",
+   "modelCode": "08SPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25199"
+ },
+ {
+   "model": "defender max xt hd9 mossy oak break-up country camo 0008spf00",
+   "model1": "defender max xt hd9",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08SPF",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25599"
+ },
+ {
+   "model": "defender max dps hd10 oxford blue 0008lpb00",
+   "model1": "defender max dps hd10",
+   "color": "oxford blue",
+   "modelCode": "08LPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25099"
+ },
+ {
+   "model": "defender max dps hd10 timeless black 0008lpd00",
+   "model1": "defender max dps hd10",
+   "color": "timeless black",
+   "modelCode": "08LPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25099"
+ },
+ {
+   "model": "defender max xt hd10 oxford blue 0008mpb00",
+   "model1": "defender max xt hd10",
+   "color": "oxford blue",
+   "modelCode": "08MPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27699"
+ },
+ {
+   "model": "defender max xt hd10 stone gray 0008mpd00",
+   "model1": "defender max xt hd10",
+   "color": "stone gray",
+   "modelCode": "08MPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27699"
+ },
+ {
+   "model": "defender max xt hd10 mossy oak break-up country camo 0008mpf00",
+   "model1": "defender max xt hd10",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08MPF",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27999"
+ },
+ {
+   "model": "defender max lone star hd10 night black 0006upa00",
+   "model1": "defender max lone star hd10",
+   "color": "night black",
+   "modelCode": "06UPA",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "29499"
+ },
+ {
+   "model": "defender max x mr mossy oak break-up country camo 0008ppb00",
+   "model1": "defender max x mr",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "08PPB",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "30599"
+ },
+ {
+   "model": "defender max x mr with half doors liquid titanium & magma red 0008ppa00",
+   "model1": "defender max x mr with half doors",
+   "color": "liquid titanium & magma red",
+   "modelCode": "08PPA",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "33299"
+ },
+ {
+   "model": "defender max limited cab hd10 oxford blue 0006mpb00",
+   "model1": "defender max limited cab hd10",
+   "color": "oxford blue",
+   "modelCode": "06MPB",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "38899"
+ },
+ {
+   "model": "defender max limited cab hd10 stone gray 0006mpd00",
+   "model1": "defender max limited cab hd10",
+   "color": "stone gray",
+   "modelCode": "06MPD",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "38899"
+ },
+ {
+   "model": "defender max limited cab hd10 desert tan & timeless black 0006mph00",
+   "model1": "defender max limited cab hd10",
+   "color": "desert tan & timeless black",
+   "modelCode": "06MPH",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "38999"
+ },
+ {
+   "model": "defender max limited cab hd10 mossy oak break-up country camo 0006mpf00",
+   "model1": "defender max limited cab hd10",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "06MPF",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "39399"
+ },
+ {
+   "model": "defender max lone star cab hd10 night black 0006lpa00",
+   "model1": "defender max lone star cab hd10",
+   "color": "night black",
+   "modelCode": "06LPA",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "42399"
+ },
+ {
+   "model": "defender pro dps hd10 tundra green 0006apb00",
+   "model1": "defender pro dps hd10",
+   "color": "tundra green",
+   "modelCode": "06APB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "24399"
+ },
+ {
+   "model": "defender pro xt hd10 timeless black 0006epd00",
+   "model1": "defender pro xt hd10",
+   "color": "timeless black",
+   "modelCode": "06EPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27899"
+ },
+ {
+   "model": "defender pro limited cab hd10 stone gray 0009hpd00",
+   "model1": "defender pro limited cab hd10",
+   "color": "stone gray",
+   "modelCode": "09HPD",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37299"
+ },
+ {
+   "model": "defender 6x6 dps hd10 tundra green 0009vpa00",
+   "model1": "defender 6x6 dps hd10",
+   "color": "tundra green",
+   "modelCode": "09VPA",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "24999"
+ },
+ {
+   "model": "defender 6x6 xt hd10 oxford blue 0009rpa00",
+   "model1": "defender 6x6 xt hd10",
+   "color": "oxford blue",
+   "modelCode": "09RPA",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "28699"
+ },
+ {
+   "model": "defender 6x6 limited cab hd10 oxford blue 0009spa00",
+   "model1": "defender 6x6 limited cab hd10",
+   "color": "oxford blue",
+   "modelCode": "09SPA",
+   "freight": "1405",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37899"
+ },
+ {
+   "model": "commander dps 700 tundra green 0009ppb00",
+   "model1": "commander dps 700",
+   "color": "tundra green",
+   "modelCode": "09PPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "18199"
+ },
+ {
+   "model": "commander xt 700 oxford blue 0009apb00",
+   "model1": "commander xt 700",
+   "color": "oxford blue",
+   "modelCode": "09APB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20599"
+ },
+ {
+   "model": "commander xt 700 triple black 0009apd00",
+   "model1": "commander xt 700",
+   "color": "triple black",
+   "modelCode": "09APD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20599"
+ },
+ {
+   "model": "commander dps 1000r tundra green 0006ppb00",
+   "model1": "commander dps 1000r",
+   "color": "tundra green",
+   "modelCode": "06PPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "22199"
+ },
+ {
+   "model": "commander xt 1000r oxford blue 0006gpb00",
+   "model1": "commander xt 1000r",
+   "color": "oxford blue",
+   "modelCode": "06GPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "26199"
+ },
+ {
+   "model": "commander xt 1000r triple black 0006gpd00",
+   "model1": "commander xt 1000r",
+   "color": "triple black",
+   "modelCode": "06GPD",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "26199"
+ },
+ {
+   "model": "commander xt 1000r mossy oak break-up country camo 0006gpf00",
+   "model1": "commander xt 1000r",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "06GPF",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "26599"
+ },
+ {
+   "model": "commander x mr 1000r mossy oak break-up country camo 0006spa00",
+   "model1": "commander x mr 1000r",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "06SPA",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27899"
+ },
+ {
+   "model": "commander xt-p 1000r desert tan & carbon black 0006ypb00",
+   "model1": "commander xt-p 1000r",
+   "color": "desert tan & carbon black",
+   "modelCode": "06YPB",
+   "freight": "985",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "30599"
+ },
+ {
+   "model": "commander max dps 1000r tundra green 0006hpb00",
+   "model1": "commander max dps 1000r",
+   "color": "tundra green",
+   "modelCode": "06HPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "25999"
+ },
+ {
+   "model": "commander max xt 1000r oxford blue 0006kpb00",
+   "model1": "commander max xt 1000r",
+   "color": "oxford blue",
+   "modelCode": "06KPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "29899"
+ },
+ {
+   "model": "commander max xt 1000r triple black 0006kpd00",
+   "model1": "commander max xt 1000r",
+   "color": "triple black",
+   "modelCode": "06KPD",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "29899"
+ },
+ {
+   "model": "commander max xt 1000r mossy oak break-up country camo 0006kpf00",
+   "model1": "commander max xt 1000r",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "06KPF",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "30299"
+ },
+ {
+   "model": "commander max xt-p 1000r desert tan & carbon black 0006cpb00",
+   "model1": "commander max xt-p 1000r",
+   "color": "desert tan & carbon black",
+   "modelCode": "06CPB",
+   "freight": "1090",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34299"
+ },
+ {
+   "model": "maverick trail 700 catalyst gray 0007rpb00",
+   "model1": "maverick trail 700",
+   "color": "catalyst gray",
+   "modelCode": "07RPB",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "16499"
+ },
+ {
+   "model": "maverick trail dps 700 triple black 0007hpb00",
+   "model1": "maverick trail dps 700",
+   "color": "triple black",
+   "modelCode": "07HPB",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "18899"
+ },
+ {
+   "model": "maverick trail dps 1000 triple black 0007fpf00",
+   "model1": "maverick trail dps 1000",
+   "color": "triple black",
+   "modelCode": "07FPF",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20599"
+ },
+ {
+   "model": "maverick trail dps 1000 oxford blue 0007fpb00",
+   "model1": "maverick trail dps 1000",
+   "color": "oxford blue",
+   "modelCode": "07FPB",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20599"
+ },
+ {
+   "model": "maverick trail dps 1000 mossy oak break-up country camo 0007fpd00",
+   "model1": "maverick trail dps 1000",
+   "color": "mossy oak break-up country camo",
+   "modelCode": "07FPD",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "20899"
+ },
+ {
+   "model": "maverick sport dps 1000r oxford blue 0009gpb00",
+   "model1": "maverick sport dps 1000r",
+   "color": "oxford blue",
+   "modelCode": "09GPB",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "24299"
+ },
+ {
+   "model": "maverick sport dps 1000r triple black 0009gpd00",
+   "model1": "maverick sport dps 1000r",
+   "color": "triple black",
+   "modelCode": "09GPD",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "24299"
+ },
+ {
+   "model": "maverick sport x xc 1000r desert tan & carbon black 0007cpb00",
+   "model1": "maverick sport x xc 1000r",
+   "color": "desert tan & carbon black",
+   "modelCode": "07CPB",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27399"
+ },
+ {
+   "model": "maverick sport x mr 1000r liquid titanium & magma red 0006fpa00",
+   "model1": "maverick sport x mr 1000r",
+   "color": "liquid titanium & magma red",
+   "modelCode": "06FPA",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "28499"
+ },
+ {
+   "model": "maverick sport x rc 1000r mineral gray & desert tan 0007bpb00",
+   "model1": "maverick sport x rc 1000r",
+   "color": "mineral gray & desert tan",
+   "modelCode": "07BPB",
+   "freight": "930",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "28999"
+ },
+ {
+   "model": "maverick sport max dps 1000r triple black 0009jpb00",
+   "model1": "maverick sport max dps 1000r",
+   "color": "triple black",
+   "modelCode": "09JPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "26699"
+ },
+ {
+   "model": "maverick x3 ds turbo catalyst gray 0009dph00",
+   "model1": "maverick x3 ds turbo",
+   "color": "catalyst gray",
+   "modelCode": "09DPH",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "26599"
+ },
+ {
+   "model": "maverick x3 ds turbo octane blue 0009dpb00",
+   "model1": "maverick x3 ds turbo",
+   "color": "octane blue",
+   "modelCode": "09DPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "26599"
+ },
+ {
+   "model": "maverick x3 ds turbo desert tan & carbon black 0009dpf00",
+   "model1": "maverick x3 ds turbo",
+   "color": "desert tan & carbon black",
+   "modelCode": "09DPF",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "27599"
+ },
+ {
+   "model": "maverick x3 ds turbo rr catalyst gray 0007xpf00",
+   "model1": "maverick x3 ds turbo rr",
+   "color": "catalyst gray",
+   "modelCode": "07XPF",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "29699"
+ },
+ {
+   "model": "maverick x3 ds turbo rr octane blue 0007xpb00",
+   "model1": "maverick x3 ds turbo rr",
+   "color": "octane blue",
+   "modelCode": "07XPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "29699"
+ },
+ {
+   "model": "maverick x3 ds turbo rr desert tan & carbon black 0007xpd00",
+   "model1": "maverick x3 ds turbo rr",
+   "color": "desert tan & carbon black",
+   "modelCode": "07XPD",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "30699"
+ },
+ {
+   "model": "maverick x3 rs turbo rr catalyst gray 0009epf00",
+   "model1": "maverick x3 rs turbo rr",
+   "color": "catalyst gray",
+   "modelCode": "09EPF",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "31899"
+ },
+ {
+   "model": "maverick x3 rs turbo rr octane blue 0009epb00",
+   "model1": "maverick x3 rs turbo rr",
+   "color": "octane blue",
+   "modelCode": "09EPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "31899"
+ },
+ {
+   "model": "maverick x3 rs turbo rr desert tan & carbon black 0009epd00",
+   "model1": "maverick x3 rs turbo rr",
+   "color": "desert tan & carbon black",
+   "modelCode": "09EPD",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "32899"
+ },
+ {
+   "model": "maverick x3 x ds turbo rr triple black 0007spf00",
+   "model1": "maverick x3 x ds turbo rr",
+   "color": "triple black",
+   "modelCode": "07SPF",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34099"
+ },
+ {
+   "model": "maverick x3 x ds turbo rr desert tan, carbon black & magma red 0007spb00",
+   "model1": "maverick x3 x ds turbo rr",
+   "color": "desert tan, carbon black & magma red",
+   "modelCode": "07SPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34299"
+ },
+ {
+   "model": "maverick x3 x rs turbo rr triple black 0007tpf00",
+   "model1": "maverick x3 x rs turbo rr",
+   "color": "triple black",
+   "modelCode": "07TPF",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37599"
+ },
+ {
+   "model": "maverick x3 x rs turbo rr desert tan, carbon black & magma red 0007tpb00",
+   "model1": "maverick x3 x rs turbo rr",
+   "color": "desert tan, carbon black & magma red",
+   "modelCode": "07TPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37799"
+ },
+ {
+   "model": "maverick x3 x rs turbo rr intense blue, carbon black & chalk gray 0007tpk00",
+   "model1": "maverick x3 x rs turbo rr",
+   "color": "intense blue, carbon black & chalk gray",
+   "modelCode": "07TPK",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37799"
+ },
+ {
+   "model": "maverick x3 x rs turbo rr smart-shox triple black 0007tph00",
+   "model1": "maverick x3 x rs turbo rr smart-shox",
+   "color": "triple black",
+   "modelCode": "07TPH",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "39599"
+ },
+ {
+   "model": "maverick x3 x rs turbo rr smart-shox desert tan, carbon black & magma red 0007tpd00",
+   "model1": "maverick x3 x rs turbo rr smart-shox",
+   "color": "desert tan, carbon black & magma red",
+   "modelCode": "07TPD",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "39799"
+ },
+ {
+   "model": "maverick x3 x rs turbo rr smart-shox intense blue, carbon black & chalk gray 0007tpm00",
+   "model1": "maverick x3 x rs turbo rr smart-shox",
+   "color": "intense blue, carbon black & chalk gray",
+   "modelCode": "07TPM",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "39799"
+ },
+ {
+   "model": "maverick x3 x mr 64'' turbo rr liquid titanium & magma red 0006vpa00",
+   "model1": "maverick x3 x mr 64'' turbo rr",
+   "color": "liquid titanium & magma red",
+   "modelCode": "06VPA",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34199"
+ },
+ {
+   "model": "maverick x3 x mr turbo rr liquid titanium & magma red 0009lpa00",
+   "model1": "maverick x3 x mr turbo rr",
+   "color": "liquid titanium & magma red",
+   "modelCode": "09LPA",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "36099"
+ },
+ {
+   "model": "maverick x3 x rc 64'' turbo rr mineral gray & desert tan 0007kpb00",
+   "model1": "maverick x3 x rc 64'' turbo rr",
+   "color": "mineral gray & desert tan",
+   "modelCode": "07KPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "35799"
+ },
+ {
+   "model": "maverick x3 x rc turbo rr mineral gray & desert tan 0009mpb00",
+   "model1": "maverick x3 x rc turbo rr",
+   "color": "mineral gray & desert tan",
+   "modelCode": "09MPB",
+   "freight": "1080",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "39999"
+ },
+ {
+   "model": "maverick x3 max ds turbo catalyst gray 0007wph00",
+   "model1": "maverick x3 max ds turbo",
+   "color": "catalyst gray",
+   "modelCode": "07WPH",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "30699"
+ },
+ {
+   "model": "maverick x3 max ds turbo octane blue 0007wpb00",
+   "model1": "maverick x3 max ds turbo",
+   "color": "octane blue",
+   "modelCode": "07WPB",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "30699"
+ },
+ {
+   "model": "maverick x3 max ds turbo desert tan & carbon black 0007wpf00",
+   "model1": "maverick x3 max ds turbo",
+   "color": "desert tan & carbon black",
+   "modelCode": "07WPF",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "31899"
+ },
+ {
+   "model": "maverick x3 max ds turbo rr catalyst gray 0007upf00",
+   "model1": "maverick x3 max ds turbo rr",
+   "color": "catalyst gray",
+   "modelCode": "07UPF",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "33299"
+ },
+ {
+   "model": "maverick x3 max ds turbo rr octane blue 0007upb00",
+   "model1": "maverick x3 max ds turbo rr",
+   "color": "octane blue",
+   "modelCode": "07UPB",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "33299"
+ },
+ {
+   "model": "maverick x3 max ds turbo rr desert tan & carbon black 0007upd00",
+   "model1": "maverick x3 max ds turbo rr",
+   "color": "desert tan & carbon black",
+   "modelCode": "07UPD",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "34499"
+ },
+ {
+   "model": "maverick x3 max rs turbo rr catalyst gray 0007ypf00",
+   "model1": "maverick x3 max rs turbo rr",
+   "color": "catalyst gray",
+   "modelCode": "07YPF",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "35499"
+ },
+ {
+   "model": "maverick x3 max rs turbo rr octane blue 0007ypb00",
+   "model1": "maverick x3 max rs turbo rr",
+   "color": "octane blue",
+   "modelCode": "07YPB",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "35499"
+ },
+ {
+   "model": "maverick x3 max rs turbo rr desert tan & carbon black 0007ypd00",
+   "model1": "maverick x3 max rs turbo rr",
+   "color": "desert tan & carbon black",
+   "modelCode": "07YPD",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "36699"
+ },
+ {
+   "model": "maverick x3 max x ds turbo rr triple black 0007vpf00",
+   "model1": "maverick x3 max x ds turbo rr",
+   "color": "triple black",
+   "modelCode": "07VPF",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37599"
+ },
+ {
+   "model": "maverick x3 max x ds turbo rr desert tan, carbon black & magma red 0007vpb00",
+   "model1": "maverick x3 max x ds turbo rr",
+   "color": "desert tan, carbon black & magma red",
+   "modelCode": "07VPB",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "37799"
+ },
+ {
+   "model": "maverick x3 max x rs turbo rr triple black 0009npf00",
+   "model1": "maverick x3 max x rs turbo rr",
+   "color": "triple black",
+   "modelCode": "09NPF",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "40999"
+ },
+ {
+   "model": "maverick x3 max x rs turbo rr desert tan, carbon black & magma red 0009npb00",
+   "model1": "maverick x3 max x rs turbo rr",
+   "color": "desert tan, carbon black & magma red",
+   "modelCode": "09NPB",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "41199"
+ },
+ {
+   "model": "maverick x3 max x rs turbo rr intense blue, carbon black & chalk gray 0009npk00",
+   "model1": "maverick x3 max x rs turbo rr",
+   "color": "intense blue, carbon black & chalk gray",
+   "modelCode": "09NPK",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "41199"
+ },
+ {
+   "model": "maverick x3 max x rs turbo rr smart-shox triple black 0009nph00",
+   "model1": "maverick x3 max x rs turbo rr smart-shox",
+   "color": "triple black",
+   "modelCode": "09NPH",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "42999"
+ },
+ {
+   "model": "maverick x3 max x rs turbo rr smart-shox desert tan, carbon black & magma red 0009npd00",
+   "model1": "maverick x3 max x rs turbo rr smart-shox",
+   "color": "desert tan, carbon black & magma red",
+   "modelCode": "09NPD",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "43199"
+ },
+ {
+   "model": "maverick x3 max x rs turbo rr smart-shox intense blue, carbon black & chalk gray 0009npm00",
+   "model1": "maverick x3 max x rs turbo rr smart-shox",
+   "color": "intense blue, carbon black & chalk gray",
+   "modelCode": "09NPM",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "43199"
+ },
+ {
+   "model": "maverick x3 max x mr turbo rr liquid titanium & magma red 0007zpa00",
+   "model1": "maverick x3 max x mr turbo rr",
+   "color": "liquid titanium & magma red",
+   "modelCode": "07ZPA",
+   "freight": "1175",
+   "commodity": "500",
+   "pdi": "995",
+   "msrp": "39099"
+ },
+ {
+   "model": "fishprotm trophy 170 (tech package) shark grey and orange crush 18pg",
+   "model1": "fishprotm trophy 170 (tech package)",
+   "color": "shark grey and orange crush",
+   "modelCode": "18PG",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "24799"
+ },
+ {
+   "model": "fishpro sport 170 (sound system) white and gulf stream blue 18pc",
+   "model1": "fishpro sport 170 (sound system)",
+   "color": "white and gulf stream blue",
+   "modelCode": "18PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "21699"
+ },
+ {
+   "model": "fishpro sport 170 white and gulf stream blue 18pa",
+   "model1": "fishpro sport 170",
+   "color": "white and gulf stream blue",
+   "modelCode": "18PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "20499"
+ },
+ {
+   "model": "fishpro scout 130 white and gulf stream blue 33pa",
+   "model1": "fishpro scout 130",
+   "color": "white and gulf stream blue",
+   "modelCode": "33PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "17699"
+ },
+ {
+   "model": "explorer pro 170  (tech package) eclipse black and neon yellow 17pc",
+   "model1": "explorer pro 170  (tech package)",
+   "color": "eclipse black and neon yellow",
+   "modelCode": "17PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "22899"
+ },
+ {
+   "model": "explorer pro 170 eclipse black and neon yellow 17pa",
+   "model1": "explorer pro 170",
+   "color": "eclipse black and neon yellow",
+   "modelCode": "17PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "20999"
+ },
+ {
+   "model": "wake™ pro 230  (tech package) neo mint 13pa",
+   "model1": "wake pro 230  (tech package)",
+   "color": "neo mint",
+   "modelCode": "13PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "21799"
+ },
+ {
+   "model": "wake 170 (sound sytem) neo mint 35pc",
+   "model1": "wake 170 (sound sytem)",
+   "color": "neo mint",
+   "modelCode": "35PC",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "17899"
+ },
+ {
+   "model": "wake 170 neo mint 35pa",
+   "model1": "wake 170",
+   "color": "neo mint",
+   "modelCode": "35PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "15999"
+ },
+ {
+   "model": "rxp-x apex 300 racing green (exclusive color) 21pa",
+   "model1": "rxp-x apex 300",
+   "color": "racing green (exclusive color)",
+   "modelCode": "21PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "25999"
+ },
+ {
+   "model": "rxt®-x300 (tech package) triple black (premium color) 10pc",
+   "model1": "rxt®-x300 (tech package)",
+   "color": "triple black (premium color)",
+   "modelCode": "10PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "23399"
+ },
+ {
+   "model": "rxt®-x300 (tech package) millenium yellow 10pa",
+   "model1": "rxt®-x300 (tech package)",
+   "color": "millenium yellow",
+   "modelCode": "10PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "22999"
+ },
+ {
+   "model": "rxp®-x 300 (tech package) triple black (premium color) 21pe",
+   "model1": "rxp®-x 300 (tech package)",
+   "color": "triple black (premium color)",
+   "modelCode": "21PE",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "22499"
+ },
+ {
+   "model": "rxp®-x 300 (tech package) millenium yellow 21pj",
+   "model1": "rxp®-x 300 (tech package)",
+   "color": "millenium yellow",
+   "modelCode": "21PJ",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "22099"
+ },
+ {
+   "model": "rxp®-x 300 triple black (premium color) 21pc",
+   "model1": "rxp®-x 300",
+   "color": "triple black (premium color)",
+   "modelCode": "21PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "20599"
+ },
+ {
+   "model": "rxp®-x 300 millenium yellow 21pg",
+   "model1": "rxp®-x 300",
+   "color": "millenium yellow",
+   "modelCode": "21PG",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "20199"
+ },
+ {
+   "model": "gtr 230 (sound system) millenium yellow 36pc",
+   "model1": "gtr 230 (sound system)",
+   "color": "millenium yellow",
+   "modelCode": "36PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "17699"
+ },
+ {
+   "model": "gtr 230 millenium yellow 36pa",
+   "model1": "gtr 230",
+   "color": "millenium yellow",
+   "modelCode": "36PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "16499"
+ },
+ {
+   "model": "gtx limited 300 (tech package) metallic sage  (premium color) 14pa",
+   "model1": "gtx limited 300 (tech package)",
+   "color": "metallic sage  (premium color)",
+   "modelCode": "14PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "23999"
+ },
+ {
+   "model": "gtx limited 300 (tech package) blue abyss 14pc",
+   "model1": "gtx limited 300 (tech package)",
+   "color": "blue abyss",
+   "modelCode": "14PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "23599"
+ },
+ {
+   "model": "gtx 300 (sound system) eclipse black and orange crush 12pf",
+   "model1": "gtx 300 (sound system)",
+   "color": "eclipse black and orange crush",
+   "modelCode": "12PF",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "21899"
+ },
+ {
+   "model": "gtx 300 eclipse black and orange crush 12pe",
+   "model1": "gtx 300",
+   "color": "eclipse black and orange crush",
+   "modelCode": "12PE",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "20699"
+ },
+ {
+   "model": "gtx 230 (sound system) eclipse black and orange crush 12pc",
+   "model1": "gtx 230 (sound system)",
+   "color": "eclipse black and orange crush",
+   "modelCode": "12PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "20199"
+ },
+ {
+   "model": "gtx 230 eclipse black and orange crush 12pa",
+   "model1": "gtx 230",
+   "color": "eclipse black and orange crush",
+   "modelCode": "12PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "18299"
+ },
+ {
+   "model": "gtx 170  (sound system) eclipse black and orange crush 11pc",
+   "model1": "gtx 170  (sound system)",
+   "color": "eclipse black and orange crush",
+   "modelCode": "11PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "19199"
+ },
+ {
+   "model": "gtx 170 eclipse black and orange crush 11pa",
+   "model1": "gtx 170",
+   "color": "eclipse black and orange crush",
+   "modelCode": "11PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "17299"
+ },
+ {
+   "model": "gti se 170  (sound system) ice metal and neo mint 30pg",
+   "model1": "gti se 170  (sound system)",
+   "color": "ice metal and neo mint",
+   "modelCode": "30PG",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "16999"
+ },
+ {
+   "model": "gti se 170  (sound system) coral blast and eclipse black 30pe",
+   "model1": "gti se 170  (sound system)",
+   "color": "coral blast and eclipse black",
+   "modelCode": "30PE",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "16999"
+ },
+ {
+   "model": "gti se 170 ice metal and neo mintl 30pc",
+   "model1": "gti se 170",
+   "color": "ice metal and neo mintl",
+   "modelCode": "30PC",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "15099"
+ },
+ {
+   "model": "gti se 170 coral blast and eclipse black 30pa",
+   "model1": "gti se 170",
+   "color": "coral blast and eclipse black",
+   "modelCode": "30PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "15099"
+ },
+ {
+   "model": "gti se 130 (sound system) ice metal and neo mint 29pg",
+   "model1": "gti se 130 (sound system)",
+   "color": "ice metal and neo mint",
+   "modelCode": "29PG",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "16199"
+ },
+ {
+   "model": "gti se 130 (sound system) coral blast and eclipse black 29pe",
+   "model1": "gti se 130 (sound system)",
+   "color": "coral blast and eclipse black",
+   "modelCode": "29PE",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "16199"
+ },
+ {
+   "model": "gti se 130 ice metal and neo mint 29pc",
+   "model1": "gti se 130",
+   "color": "ice metal and neo mint",
+   "modelCode": "29PC",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "14299"
+ },
+ {
+   "model": "gti se 130 coral blast and eclipse black 29pa",
+   "model1": "gti se 130",
+   "color": "coral blast and eclipse black",
+   "modelCode": "29PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "14299"
+ },
+ {
+   "model": "gti white and reef blue 38pa",
+   "model1": "gti",
+   "color": "white and reef blue",
+   "modelCode": "38PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "13299"
+ },
+ {
+   "model": "gtx 130 pro with ibr white & reef blue 25pa",
+   "model1": "gtx 130 pro with ibr",
+   "color": "white & reef blue",
+   "modelCode": "25PA",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "16099"
+ },
+ {
+   "model": "gtx 130 pro white & reef blue 25pc",
+   "model1": "gtx 130 pro",
+   "color": "white & reef blue",
+   "modelCode": "25PC",
+   "freight": "650",
+   "commodity": "810",
+   "pdi": "895",
+   "msrp": "14699"
+ },
+ {
+   "model": "spark 2up base manta green and white 61pa",
+   "model1": "spark 2up base",
+   "color": "manta green and white",
+   "modelCode": "61PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "7299"
+ },
+ {
+   "model": "spark 2up ibr & convenience package manta green and white 64pd",
+   "model1": "spark 2up ibr& convenience package",
+   "color": "manta green and white",
+   "modelCode": "64PD",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "9599"
+ },
+ {
+   "model": "spark 2uptrixx dazzling blue 65pc",
+   "model1": "spark 2uptrixx",
+   "color": "dazzling blue",
+   "modelCode": "65PC",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10199"
+ },
+ {
+   "model": "spark 2uptrixx dazzling blue (sound system) 65pf",
+   "model1": "spark 2uptrixx",
+   "color": "dazzling blue (sound system)",
+   "modelCode": "65PF",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10899"
+ },
+ {
+   "model": "spark 2uptrixx manta green 65pa",
+   "model1": "spark 2uptrixx",
+   "color": "manta green",
+   "modelCode": "65PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10199"
+ },
+ {
+   "model": "spark 2uptrixx manta green (sound system) 65pe",
+   "model1": "spark 2uptrixx",
+   "color": "manta green (sound system)",
+   "modelCode": "65PE",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10899"
+ },
+ {
+   "model": "spark 3up base manta green and white 62pc",
+   "model1": "spark 3up base",
+   "color": "manta green and white",
+   "modelCode": "62PC",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "9099"
+ },
+ {
+   "model": "spark 3up ibr & convenience package manta green and white 63pd",
+   "model1": "spark 3up ibr & convenience package",
+   "color": "manta green and white",
+   "modelCode": "63PD",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10299"
+ },
+ {
+   "model": "spark 3up ibr & convenience package plus manta green and white (sound system) 63pf",
+   "model1": "spark 3up ibr & convenience package plus",
+   "color": "manta green and white (sound system)",
+   "modelCode": "63PF",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10999"
+ },
+ {
+   "model": "spark 3up trixx dazzling blue 66pc",
+   "model1": "spark 3up trixx",
+   "color": "dazzling blue",
+   "modelCode": "66PC",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10899"
+ },
+ {
+   "model": "spark 3up trixx dazzling blue  (sound system) 66pf",
+   "model1": "spark 3up trixx",
+   "color": "dazzling blue  (sound system)",
+   "modelCode": "66PF",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "11599"
+ },
+ {
+   "model": "spark 3up trixx manta green 66pa",
+   "model1": "spark 3up trixx",
+   "color": "manta green",
+   "modelCode": "66PA",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "10899"
+ },
+ {
+   "model": "spark 3up trixx manta green (sound system) 66pe",
+   "model1": "spark 3up trixx",
+   "color": "manta green (sound system)",
+   "modelCode": "66PE",
+   "freight": "650",
+   "commodity": "615",
+   "pdi": "895",
+   "msrp": "11599"
+ },
+ {
+   "model": "switch sport 21' 230hp neon yellow (new catalyst) 51pk",
+   "model1": "switch sport 21' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "51PK",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51399"
+ },
+ {
+   "model": "switch sport 21' 230hp neon yellow 48pc",
+   "model1": "switch sport 21' 230hp",
+   "color": "neon yellow",
+   "modelCode": "48PC",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51399"
+ },
+ {
+   "model": "switch sport 21' 230hp lava red (new catalyst) 51pm",
+   "model1": "switch sport 21' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "51PM",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51399"
+ },
+ {
+   "model": "switch sport 21' 230hp lava red 48pd",
+   "model1": "switch sport 21' 230hp",
+   "color": "lava red",
+   "modelCode": "48PD",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51399"
+ },
+ {
+   "model": "switch sport 21' 230hp carribean blue (new catalyst) 51ph",
+   "model1": "switch sport 21' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "51PH",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51399"
+ },
+ {
+   "model": "switch sport 21' 230hp carribean blue 48pb",
+   "model1": "switch sport 21' 230hp",
+   "color": "carribean blue",
+   "modelCode": "48PB",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51399"
+ },
+ {
+   "model": "switch sport 21' 230hp neon yellow (new catalyst) 51pj",
+   "model1": "switch sport 21' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "51PJ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "50499"
+ },
+ {
+   "model": "switch sport 21' 230hp neon yellow 47pr",
+   "model1": "switch sport 21' 230hp",
+   "color": "neon yellow",
+   "modelCode": "47PR",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "50499"
+ },
+ {
+   "model": "switch sport 21' 230hp lava red (new catalyst) 51pl",
+   "model1": "switch sport 21' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "51PL",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "50499"
+ },
+ {
+   "model": "switch sport 21' 230hp lava red 47pt",
+   "model1": "switch sport 21' 230hp",
+   "color": "lava red",
+   "modelCode": "47PT",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "50499"
+ },
+ {
+   "model": "switch sport 21' 230hp carribean blue (new catalyst) 51pg",
+   "model1": "switch sport 21' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "51PG",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "50499"
+ },
+ {
+   "model": "switch sport 21' 230hp carribean blue 47pp",
+   "model1": "switch sport 21' 230hp",
+   "color": "carribean blue",
+   "modelCode": "47PP",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "50499"
+ },
+ {
+   "model": "switch sport 18' 230hp neon yellow (new catalyst) 51pd",
+   "model1": "switch sport 18' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "51PD",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "47699"
+ },
+ {
+   "model": "switch sport 18' 230hp neon yellow 47pz",
+   "model1": "switch sport 18' 230hp",
+   "color": "neon yellow",
+   "modelCode": "47PZ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "47699"
+ },
+ {
+   "model": "switch sport 18' 230hp lava red (new catalyst) 51pf",
+   "model1": "switch sport 18' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "51PF",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "47699"
+ },
+ {
+   "model": "switch sport 18' 230hp lava red 48pa",
+   "model1": "switch sport 18' 230hp",
+   "color": "lava red",
+   "modelCode": "48PA",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "47699"
+ },
+ {
+   "model": "switch sport 18' 230hp carribean blue (new catalyst) 51pb",
+   "model1": "switch sport 18' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "51PB",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "47699"
+ },
+ {
+   "model": "switch sport 18' 230hp carribean blue 47py",
+   "model1": "switch sport 18' 230hp",
+   "color": "carribean blue",
+   "modelCode": "47PY",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "47699"
+ },
+ {
+   "model": "switch sport 18' 230hp neon yellow (new catalyst) 51pc",
+   "model1": "switch sport 18' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "51PC",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "46899"
+ },
+ {
+   "model": "switch sport 18' 230hp neon yellow 47pk",
+   "model1": "switch sport 18' 230hp",
+   "color": "neon yellow",
+   "modelCode": "47PK",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "46899"
+ },
+ {
+   "model": "switch sport 18' 230hp lava red (new catalyst) 51pe",
+   "model1": "switch sport 18' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "51PE",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "46899"
+ },
+ {
+   "model": "switch sport 18' 230hp lava red 47pm",
+   "model1": "switch sport 18' 230hp",
+   "color": "lava red",
+   "modelCode": "47PM",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "46899"
+ },
+ {
+   "model": "switch sport 18' 230hp carribean blue (new catalyst) 51pa",
+   "model1": "switch sport 18' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "51PA",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "46899"
+ },
+ {
+   "model": "switch sport 18' 230hp carribean blue 47ph",
+   "model1": "switch sport 18' 230hp",
+   "color": "carribean blue",
+   "modelCode": "47PH",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "46899"
+ },
+ {
+   "model": "switch sport compact 170hp neon yellow 48pw",
+   "model1": "switch sport compact 170hp",
+   "color": "neon yellow",
+   "modelCode": "48PW",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "34899"
+ },
+ {
+   "model": "switch sport compact 170hp lava red 47px",
+   "model1": "switch sport compact 170hp",
+   "color": "lava red",
+   "modelCode": "47PX",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "34899"
+ },
+ {
+   "model": "switch sport compact 170hp carribean blue 47pv",
+   "model1": "switch sport compact 170hp",
+   "color": "carribean blue",
+   "modelCode": "47PV",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "34899"
+ },
+ {
+   "model": "switch sport compact 170hp neon yellow 47pc",
+   "model1": "switch sport compact 170hp",
+   "color": "neon yellow",
+   "modelCode": "47PC",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "34299"
+ },
+ {
+   "model": "switch sport compact 170hp lava red 47pe",
+   "model1": "switch sport compact 170hp",
+   "color": "lava red",
+   "modelCode": "47PE",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "34299"
+ },
+ {
+   "model": "switch sport compact 170hp carribean blue 47pa",
+   "model1": "switch sport compact 170hp",
+   "color": "carribean blue",
+   "modelCode": "47PA",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "34299"
+ },
+ {
+   "model": "switch cruise. 21' 230hp neon yellow (new catalyst) 50pk",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "50PK",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "52399"
+ },
+ {
+   "model": "switch cruise. 21' 230hp neon yellow 45pv",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "neon yellow",
+   "modelCode": "45PV",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "52399"
+ },
+ {
+   "model": "switch cruise. 21' 230hp lava red (new catalyst) 50pm",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "50PM",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "52399"
+ },
+ {
+   "model": "switch cruise. 21' 230hp lava red 45pw",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "lava red",
+   "modelCode": "45PW",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "52399"
+ },
+ {
+   "model": "switch cruise. 21' 230hp carribean blue (new catalyst) 50ph",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "50PH",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "52399"
+ },
+ {
+   "model": "switch cruise. 21' 230hp carribean blue 45pu",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "carribean blue",
+   "modelCode": "45PU",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "52399"
+ },
+ {
+   "model": "switch cruise. 21' 230hp neon yellow (new catalyst) 50pj",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "50PJ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51499"
+ },
+ {
+   "model": "switch cruise. 21' 230hp neon yellow 46pr",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "neon yellow",
+   "modelCode": "46PR",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51499"
+ },
+ {
+   "model": "switch cruise. 21' 230hp lava red (new catalyst) 50pl",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "50PL",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51499"
+ },
+ {
+   "model": "switch cruise. 21' 230hp lava red 46pt",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "lava red",
+   "modelCode": "46PT",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51499"
+ },
+ {
+   "model": "switch cruise. 21' 230hp carribean blue (new catalyst) 50pg",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "50PG",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51499"
+ },
+ {
+   "model": "switch cruise. 21' 230hp carribean blue 46pp",
+   "model1": "switch cruise. 21' 230hp",
+   "color": "carribean blue",
+   "modelCode": "46PP",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "51499"
+ },
+ {
+   "model": "switch cruise 21' 170hp neon yellow 45ps",
+   "model1": "switch cruise 21' 170hp",
+   "color": "neon yellow",
+   "modelCode": "45PS",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49399"
+ },
+ {
+   "model": "switch cruise 21' 170hp lava red 45pt",
+   "model1": "switch cruise 21' 170hp",
+   "color": "lava red",
+   "modelCode": "45PT",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49399"
+ },
+ {
+   "model": "switch cruise 21' 170hp carribean blue 45pr",
+   "model1": "switch cruise 21' 170hp",
+   "color": "carribean blue",
+   "modelCode": "45PR",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49399"
+ },
+ {
+   "model": "switch cruise 21' 170hp neon yellow 46pm",
+   "model1": "switch cruise 21' 170hp",
+   "color": "neon yellow",
+   "modelCode": "46PM",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 21' 170hp lava red 46pn",
+   "model1": "switch cruise 21' 170hp",
+   "color": "lava red",
+   "modelCode": "46PN",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 21' 170hp carribean blue 46pl",
+   "model1": "switch cruise 21' 170hp",
+   "color": "carribean blue",
+   "modelCode": "46PL",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 230hp neon yellow (new catalyst) 50pd",
+   "model1": "switch cruise 18' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "50PD",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49299"
+ },
+ {
+   "model": "switch cruise 18' 230hp neon yellow 45pm",
+   "model1": "switch cruise 18' 230hp",
+   "color": "neon yellow",
+   "modelCode": "45PM",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49299"
+ },
+ {
+   "model": "switch cruise 18' 230hp lava red (new catalyst) 50pf",
+   "model1": "switch cruise 18' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "50PF",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49299"
+ },
+ {
+   "model": "switch cruise 18' 230hp lava red 45pq",
+   "model1": "switch cruise 18' 230hp",
+   "color": "lava red",
+   "modelCode": "45PQ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49299"
+ },
+ {
+   "model": "switch cruise 18' 230hp carribean blue (new catalyst) 50pb",
+   "model1": "switch cruise 18' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "50PB",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49299"
+ },
+ {
+   "model": "switch cruise 18' 230hp carribean blue 45pj",
+   "model1": "switch cruise 18' 230hp",
+   "color": "carribean blue",
+   "modelCode": "45PJ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "49299"
+ },
+ {
+   "model": "switch cruise 18' 230hp neon yellow (new catalyst) 50pc",
+   "model1": "switch cruise 18' 230hp",
+   "color": "neon yellow (new catalyst)",
+   "modelCode": "50PC",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 230hp neon yellow 45pl",
+   "model1": "switch cruise 18' 230hp",
+   "color": "neon yellow",
+   "modelCode": "45PL",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 230hp lava red (new catalyst) 50pe",
+   "model1": "switch cruise 18' 230hp",
+   "color": "lava red (new catalyst)",
+   "modelCode": "50PE",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 230hp lava red 45pp",
+   "model1": "switch cruise 18' 230hp",
+   "color": "lava red",
+   "modelCode": "45PP",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 230hp carribean blue (new catalyst) 50pa",
+   "model1": "switch cruise 18' 230hp",
+   "color": "carribean blue (new catalyst)",
+   "modelCode": "50PA",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 230hp carribean blue 45ph",
+   "model1": "switch cruise 18' 230hp",
+   "color": "carribean blue",
+   "modelCode": "45PH",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "48499"
+ },
+ {
+   "model": "switch cruise 18' 170hp neon yellow 46pz",
+   "model1": "switch cruise 18' 170hp",
+   "color": "neon yellow",
+   "modelCode": "46PZ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "45599"
+ },
+ {
+   "model": "switch cruise 18' 170hp lava red 45pg",
+   "model1": "switch cruise 18' 170hp",
+   "color": "lava red",
+   "modelCode": "45PG",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "45599"
+ },
+ {
+   "model": "switch cruise 18' 170hp carribean blue 46py",
+   "model1": "switch cruise 18' 170hp",
+   "color": "carribean blue",
+   "modelCode": "46PY",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "45599"
+ },
+ {
+   "model": "switch cruise 18' 170hp neon yellow 46pf",
+   "model1": "switch cruise 18' 170hp",
+   "color": "neon yellow",
+   "modelCode": "46PF",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "44799"
+ },
+ {
+   "model": "switch cruise 18' 170hp lava red 46pj",
+   "model1": "switch cruise 18' 170hp",
+   "color": "lava red",
+   "modelCode": "46PJ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "44799"
+ },
+ {
+   "model": "switch cruise 18' 170hp carribean blue 46pd",
+   "model1": "switch cruise 18' 170hp",
+   "color": "carribean blue",
+   "modelCode": "46PD",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "44799"
+ },
+ {
+   "model": "switch cruise 18' 130hp neon yellow 46pw",
+   "model1": "switch cruise 18' 130hp",
+   "color": "neon yellow",
+   "modelCode": "46PW",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "39799"
+ },
+ {
+   "model": "switch cruise 18' 130hp lava red 46px",
+   "model1": "switch cruise 18' 130hp",
+   "color": "lava red",
+   "modelCode": "46PX",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "39799"
+ },
+ {
+   "model": "switch cruise 18' 130hp carribean blue 46pv",
+   "model1": "switch cruise 18' 130hp",
+   "color": "carribean blue",
+   "modelCode": "46PV",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "39799"
+ },
+ {
+   "model": "switch cruise 18' 130hp neon yellow 46pb",
+   "model1": "switch cruise 18' 130hp",
+   "color": "neon yellow",
+   "modelCode": "46PB",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "38999"
+ },
+ {
+   "model": "switch cruise 18' 130hp lava red 46pc",
+   "model1": "switch cruise 18' 130hp",
+   "color": "lava red",
+   "modelCode": "46PC",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "38999"
+ },
+ {
+   "model": "switch cruise 18' 130hp carribean blue 46pa",
+   "model1": "switch cruise 18' 130hp",
+   "color": "carribean blue",
+   "modelCode": "46PA",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "38999"
+ },
+ {
+   "model": "switch 16' 130hp carribean blue 41pp",
+   "model1": "switch 16' 130hp",
+   "color": "carribean blue",
+   "modelCode": "41PP",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "33099"
+ },
+ {
+   "model": "switch 16' 130hp  41pk",
+   "model1": "switch 16' 130hp",
+   "color": "",
+   "modelCode": "41PK",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "32299"
+ },
+ {
+   "model": "switch compact 130hp carribean blue 41pn",
+   "model1": "switch compact 130hp",
+   "color": "carribean blue",
+   "modelCode": "41PN",
+   "freight": "1900",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "27899"
+ },
+ {
+   "model": "switch compact 130hp  41pj",
+   "model1": "switch compact 130hp",
+   "color": "",
+   "modelCode": "41PJ",
+   "freight": "1900",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "27299"
+ },
+ {
+   "model": "switch 19' 170hp carribean blue 41pq",
+   "model1": "switch 19' 170hp",
+   "color": "carribean blue",
+   "modelCode": "41PQ",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "43299"
+ },
+ {
+   "model": "switch 19' 170hp  41pl",
+   "model1": "switch 19' 170hp",
+   "color": "",
+   "modelCode": "41PL",
+   "freight": "2100",
+   "commodity": "2100",
+   "pdi": "1495",
+   "msrp": "42399"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25 e.s. black udra",
+   "model1": "mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "UDRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18949"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25 e.s. catalyst grey udrb",
+   "model1": "mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "UDRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19249"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s. black udrc",
+   "model1": "mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "UDRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19249"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s. catalyst grey udrd",
+   "model1": "mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "UDRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19549"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. black uera",
+   "model1": "mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "UERA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17499"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerb",
+   "model1": "mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "UERB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17799"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s. black uerc",
+   "model1": "mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "UERC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17799"
+ },
+ {
+   "model": "mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerd",
+   "model1": "mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "UERD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18099"
+ },
+ {
+   "model": "mxz adrenaline 129 850 e-tec ripsaw 1.25 e.s. black bdrf",
+   "model1": "mxz adrenaline 129 850 e-tec ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "BDRF",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16999"
+ },
+ {
+   "model": "mxz adrenaline 129 850 e-tec ripsaw 1.25 e.s. neo yellow bdre",
+   "model1": "mxz adrenaline 129 850 e-tec ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "BDRE",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "mxz adrenaline 137 850 e-tec ripsaw 1.25 e.s. black bdrh",
+   "model1": "mxz adrenaline 137 850 e-tec ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "BDRH",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "mxz adrenaline 137 850 e-tec ripsaw 1.25 e.s. neo yellow bdrg",
+   "model1": "mxz adrenaline 137 850 e-tec ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "BDRG",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17599"
+ },
+ {
+   "model": "mxz adrenaline 129 600r e-tec ripsaw 1.25 e.s. black bdrb",
+   "model1": "mxz adrenaline 129 600r e-tec ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "BDRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15549"
+ },
+ {
+   "model": "mxz adrenaline 129 600r e-tec ripsaw 1.25 e.s. neo yellow bdra",
+   "model1": "mxz adrenaline 129 600r e-tec ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "BDRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15849"
+ },
+ {
+   "model": "mxz adrenaline 137 600r e-tec ripsaw 1.25 e.s. black bdrd",
+   "model1": "mxz adrenaline 137 600r e-tec ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "BDRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15849"
+ },
+ {
+   "model": "mxz adrenaline 137 600r e-tec ripsaw 1.25 e.s. neo yellow bdrc",
+   "model1": "mxz adrenaline 137 600r e-tec ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "BDRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16149"
+ },
+ {
+   "model": "mxz sport 129 600 efi ripsaw 1.25 e.s. neo yellow bhrc",
+   "model1": "mxz sport 129 600 efi ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "BHRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "11249"
+ },
+ {
+   "model": "mxz sport 137 600 efi ripsaw 1.25 e.s. neo yellow bhrb",
+   "model1": "mxz sport 137 600 efi ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "BHRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "11549"
+ },
+ {
+   "model": "mxz neo+ 600 efi (55) ripsaw 1.25 e.s. neo yellow and black bpra",
+   "model1": "mxz neo+ 600 efi (55) ripsaw 1.25\" e.s.",
+   "color": "neo yellow and black",
+   "modelCode": "BPRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "9499"
+ },
+ {
+   "model": "mxz neo 600 efi (40) cobra 1.0 e.s. neo yellow and catalyst grey bbra",
+   "model1": "mxz neo 600 efi (40) cobra 1.0\" e.s.",
+   "color": "neo yellow and catalyst grey",
+   "modelCode": "BBRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "8449"
+ },
+ {
+   "model": "mxz 200 neo yellow ywrb",
+   "model1": "mxz 200",
+   "color": "neo yellow",
+   "modelCode": "YWRB",
+   "freight": "320",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "6649"
+ },
+ {
+   "model": "mxz 120 neo yellow ywra",
+   "model1": "mxz 120",
+   "color": "neo yellow",
+   "modelCode": "YWRA",
+   "freight": "320",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "4999"
+ },
+ {
+   "model": "renegade adr wand enduro pkg 850 e-tec ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow urra",
+   "model1": "renegade adr wand enduro pkg 850 e-tec ice ripper xt 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "black and neo yellow",
+   "modelCode": "URRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "20649"
+ },
+ {
+   "model": "renegade adr wand enduro pkg 600r e-tec ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow usra",
+   "model1": "renegade adr wand enduro pkg 600r e-tec ice ripper xt 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "black and neo yellow",
+   "modelCode": "USRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19049"
+ },
+ {
+   "model": "renegade adr wand enduro pkg 900 ace turbo r ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow dpra",
+   "model1": "renegade adr wand enduro pkg 900 ace turbo r ice ripper xt 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "black and neo yellow",
+   "modelCode": "DPRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "22449"
+ },
+ {
+   "model": "renegade adr wand enduro pkg 900 ace turbo ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow drra",
+   "model1": "renegade adr wand enduro pkg 900 ace turbo ice ripper xt 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "black and neo yellow",
+   "modelCode": "DRRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "20649"
+ },
+ {
+   "model": "renegade adr wand enduro pkg 900 ace ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow unra",
+   "model1": "renegade adr wand enduro pkg 900 ace ice ripper xt 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "black and neo yellow",
+   "modelCode": "UNRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18799"
+ },
+ {
+   "model": "renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s. black dtrb",
+   "model1": "renegade adrenaline 900 ace turbo r ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "DTRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19099"
+ },
+ {
+   "model": "renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s. neo yellow dtra",
+   "model1": "renegade adrenaline 900 ace turbo r ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "DTRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19399"
+ },
+ {
+   "model": "renegade adrenaline 900 ace turbo ripsaw 1.25 e.s. black durb",
+   "model1": "renegade adrenaline 900 ace turbo ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "DURB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "renegade adrenaline 900 ace turbo ripsaw 1.25 e.s. neo yellow dura",
+   "model1": "renegade adrenaline 900 ace turbo ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "DURA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17599"
+ },
+ {
+   "model": "renegade adrenaline 900 ace ripsaw 1.25 e.s. black mbrb",
+   "model1": "renegade adrenaline 900 ace ripsaw 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "MBRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15449"
+ },
+ {
+   "model": "renegade adrenaline 900 ace ripsaw 1.25 e.s. neo yellow mbra",
+   "model1": "renegade adrenaline 900 ace ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "MBRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15749"
+ },
+ {
+   "model": "renegade sport 600 ace ripsaw 1.25 e.s. neo yellow mcra",
+   "model1": "renegade sport 600 ace ripsaw 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "MCRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "12599"
+ },
+ {
+   "model": "grand touring le wand luxury pkg 900 ace turbo r silent ice track ii 1.25 e.s. wand 10.25 touchscreen terra green eprb",
+   "model1": "grand touring le wand luxury pkg 900 ace turbo r silent ice track ii 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "terra green",
+   "modelCode": "EPRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "23849"
+ },
+ {
+   "model": "grand touring le wand luxury pkg 900 ace turbo silent ice track ii 1.25 e.s. wand 10.25 touchscreen terra green errb",
+   "model1": "grand touring le wand luxury pkg 900 ace turbo silent ice track ii 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "terra green",
+   "modelCode": "ERRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "21949"
+ },
+ {
+   "model": "grand touring le wand luxury pkg 900 ace silent ice track ii 1.25 e.s. wand 10.25 touchscreen terra green ebrb",
+   "model1": "grand touring le wand luxury pkg 900 ace silent ice track ii 1.25\" e.s. wand 10.25\" touchscreen",
+   "color": "terra green",
+   "modelCode": "EBRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19999"
+ },
+ {
+   "model": "grand touring le 900 ace turbo r silent track ii 1.25 e.s. black epra",
+   "model1": "grand touring le 900 ace turbo r silent track ii 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "EPRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "21449"
+ },
+ {
+   "model": "grand touring le 900 ace turbo silent track ii 1.25 e.s. black erra",
+   "model1": "grand touring le 900 ace turbo silent track ii 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "ERRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19549"
+ },
+ {
+   "model": "grand touring le 900 ace silent track ii 1.25 e.s. black ebra",
+   "model1": "grand touring le 900 ace silent track ii 1.25\" e.s.",
+   "color": "black",
+   "modelCode": "EBRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17599"
+ },
+ {
+   "model": "grand touring sport 900 ace silent track ii 1.25 e.s. neo yellow eara",
+   "model1": "grand touring sport 900 ace silent track ii 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "EARA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15299"
+ },
+ {
+   "model": "grand touring sport 600 ace silent track ii 1.25 e.s. neo yellow etra",
+   "model1": "grand touring sport 600 ace silent track ii 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "ETRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "13849"
+ },
+ {
+   "model": "backcountry adrenaline 850 e-tec cobra 1.6 e.s. black ugra",
+   "model1": "backcountry adrenaline 850 e-tec cobra 1.6\" e.s.",
+   "color": "black",
+   "modelCode": "UGRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17399"
+ },
+ {
+   "model": "backcountry adrenaline 850 e-tec powdermax 2.0 e.s. black ugrb",
+   "model1": "backcountry adrenaline 850 e-tec powdermax 2.0\" e.s.",
+   "color": "black",
+   "modelCode": "UGRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17649"
+ },
+ {
+   "model": "backcountry adrenaline 850 e-tec cobra 1.6 e.s. neo yellow ugrc",
+   "model1": "backcountry adrenaline 850 e-tec cobra 1.6\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "UGRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17699"
+ },
+ {
+   "model": "backcountry adrenaline 850 e-tec powdermax 2.0 e.s. neo yellow ugrd",
+   "model1": "backcountry adrenaline 850 e-tec powdermax 2.0\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "UGRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17949"
+ },
+ {
+   "model": "backcountry adrenaline 600r e-tec cobra 1.6 e.s. black ujra",
+   "model1": "backcountry adrenaline 600r e-tec cobra 1.6\" e.s.",
+   "color": "black",
+   "modelCode": "UJRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16049"
+ },
+ {
+   "model": "backcountry adrenaline 600r e-tec powdermax 2.0 e.s. black ujrb",
+   "model1": "backcountry adrenaline 600r e-tec powdermax 2.0\" e.s.",
+   "color": "black",
+   "modelCode": "UJRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16299"
+ },
+ {
+   "model": "backcountry adrenaline 600r e-tec cobra 1.6 e.s. neo yellow ujrc",
+   "model1": "backcountry adrenaline 600r e-tec cobra 1.6\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "UJRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16349"
+ },
+ {
+   "model": "backcountry adrenaline 600r e-tec powdermax 2.0 e.s. neo yellow ujrd",
+   "model1": "backcountry adrenaline 600r e-tec powdermax 2.0\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "UJRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16599"
+ },
+ {
+   "model": "backcountry sport 600 efi cobra 1.6 e.s. neo yellow ubra",
+   "model1": "backcountry sport 600 efi cobra 1.6\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "UBRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "11849"
+ },
+ {
+   "model": "backcountry sport 600 efi powdermax 2.0 e.s. neo yellow ubrb",
+   "model1": "backcountry sport 600 efi powdermax 2.0\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "UBRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "12099"
+ },
+ {
+   "model": "expedition le 20 900 ace turbo r silent cobra 1.5 e.s. black awra",
+   "model1": "expedition le 20\" 900 ace turbo r silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AWRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "20399"
+ },
+ {
+   "model": "expedition le 20 900 ace turbo r silent cobra 1.5 e.s. arctic desert awrb",
+   "model1": "expedition le 20\" 900 ace turbo r silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AWRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "20699"
+ },
+ {
+   "model": "expedition le 20 900 ace turbo silent cobra 1.5 e.s. black acra",
+   "model1": "expedition le 20\" 900 ace turbo silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ACRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18449"
+ },
+ {
+   "model": "expedition le 20 900 ace turbo silent cobra 1.5 e.s. arctic desert acrb",
+   "model1": "expedition le 20\" 900 ace turbo silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ACRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18749"
+ },
+ {
+   "model": "expedition le 20 900 ace silent cobra 1.5 e.s. black aara",
+   "model1": "expedition le 20\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AARA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16699"
+ },
+ {
+   "model": "expedition le 20 900 ace silent cobra 1.5 e.s. (same as aara) black aard",
+   "model1": "expedition le 20\" 900 ace silent cobra 1.5\" e.s. (same as aara)",
+   "color": "black",
+   "modelCode": "AARD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16699"
+ },
+ {
+   "model": "expedition le 20 900 ace silent cobra 1.5 e.s. arctic desert aarb",
+   "model1": "expedition le 20\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AARB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16999"
+ },
+ {
+   "model": "expedition le 20 600r e-tec silent cobra 1.5 e.s. black abra",
+   "model1": "expedition le 20\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ABRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17349"
+ },
+ {
+   "model": "expedition le 20 600r e-tec silent cobra 1.5 e.s. arctic desert abrb",
+   "model1": "expedition le 20\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ABRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17649"
+ },
+ {
+   "model": "expedition le 24 900 ace turbo r silent cobra 1.5 e.s. black axra",
+   "model1": "expedition le 24\" 900 ace turbo r silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AXRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "21349"
+ },
+ {
+   "model": "expedition le 24 900 ace turbo r silent cobra 1.5 e.s. arctic desert axrb",
+   "model1": "expedition le 24\" 900 ace turbo r silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AXRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "21649"
+ },
+ {
+   "model": "expedition le 24 900 ace turbo silent cobra 1.5 e.s. black asra",
+   "model1": "expedition le 24\" 900 ace turbo silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ASRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19399"
+ },
+ {
+   "model": "expedition le 24 900 ace turbo silent cobra 1.5 e.s. arctic desert asrb",
+   "model1": "expedition le 24\" 900 ace turbo silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ASRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19699"
+ },
+ {
+   "model": "expedition le 24 900 ace silent cobra 1.5 e.s. black arra",
+   "model1": "expedition le 24\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ARRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17649"
+ },
+ {
+   "model": "expedition le 24 900 ace silent cobra 1.5 e.s. (same as arra) black arrd",
+   "model1": "expedition le 24\" 900 ace silent cobra 1.5\" e.s. (same as arra)",
+   "color": "black",
+   "modelCode": "ARRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17649"
+ },
+ {
+   "model": "expedition le 24 900 ace silent cobra 1.5 e.s. arctic desert arrb",
+   "model1": "expedition le 24\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ARRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17949"
+ },
+ {
+   "model": "expedition le 24 600r e-tec silent cobra 1.5 e.s. black amra",
+   "model1": "expedition le 24\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AMRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18299"
+ },
+ {
+   "model": "expedition le 24 600r e-tec silent cobra 1.5 e.s. arctic desert amrb",
+   "model1": "expedition le 24\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AMRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18599"
+ },
+ {
+   "model": "expedition xtreme 900 ace turbo r cobra 1.8 e.s. black aprd",
+   "model1": "expedition xtreme 900 ace turbo r cobra 1.8\" e.s.",
+   "color": "black",
+   "modelCode": "APRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "20849"
+ },
+ {
+   "model": "expedition xtreme 900 ace turbo r cobra 1.8 e.s. neo mint aprb",
+   "model1": "expedition xtreme 900 ace turbo r cobra 1.8\" e.s.",
+   "color": "neo mint",
+   "modelCode": "APRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "21149"
+ },
+ {
+   "model": "expedition xtreme 850 e-tec cobra 1.8 e.s. black adrd",
+   "model1": "expedition xtreme 850 e-tec cobra 1.8\" e.s.",
+   "color": "black",
+   "modelCode": "ADRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19149"
+ },
+ {
+   "model": "expedition xtreme 850 e-tec cobra 1.8 e.s. neo mint adrb",
+   "model1": "expedition xtreme 850 e-tec cobra 1.8\" e.s.",
+   "color": "neo mint",
+   "modelCode": "ADRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "19449"
+ },
+ {
+   "model": "expedition sport 900 ace charger 1.5 e.s. neo yellow kdra",
+   "model1": "expedition sport 900 ace charger 1.5\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "KDRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15099"
+ },
+ {
+   "model": "expedition sport 600 ace charger 1.5 e.s. neo yellow kcra",
+   "model1": "expedition sport 600 ace charger 1.5\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "KCRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "13499"
+ },
+ {
+   "model": "expedition sport 600 efi charger 1.5 e.s. neo yellow kara",
+   "model1": "expedition sport 600 efi charger 1.5\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "KARA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "11899"
+ },
+ {
+   "model": "skandic le 20 900 ace silent cobra 1.5 e.s. black ahra",
+   "model1": "skandic le 20\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AHRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16449"
+ },
+ {
+   "model": "skandic le 20 900 ace silent cobra 1.5 e.s. (same as ahra) black ahrd",
+   "model1": "skandic le 20\" 900 ace silent cobra 1.5\" e.s. (same as ahra)",
+   "color": "black",
+   "modelCode": "AHRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16449"
+ },
+ {
+   "model": "skandic le 20 900 ace silent cobra 1.5 e.s. arctic desert ahrb",
+   "model1": "skandic le 20\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AHRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16749"
+ },
+ {
+   "model": "skandic le 20 600 ace silent cobra 1.5 e.s. black akra",
+   "model1": "skandic le 20\" 600 ace silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AKRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15299"
+ },
+ {
+   "model": "skandic le 20 600 ace silent cobra 1.5 e.s. arctic desert akrb",
+   "model1": "skandic le 20\" 600 ace silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AKRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15599"
+ },
+ {
+   "model": "skandic le 20 600r e-tec silent cobra 1.5 e.s. black alra",
+   "model1": "skandic le 20\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ALRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16999"
+ },
+ {
+   "model": "skandic le 20 600r e-tec silent cobra 1.5 e.s. arctic desert alrb",
+   "model1": "skandic le 20\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ALRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "skandic le 20 600 efi silent cobra 1.5 e.s. black atrd",
+   "model1": "skandic le 20\" 600 efi silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ATRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "13649"
+ },
+ {
+   "model": "skandic le 20 600 efi silent cobra 1.5 e.s. arctic desert atrb",
+   "model1": "skandic le 20\" 600 efi silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ATRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "13949"
+ },
+ {
+   "model": "skandic le 24 900 ace silent cobra 1.5 e.s. black anra",
+   "model1": "skandic le 24\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "ANRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17399"
+ },
+ {
+   "model": "skandic le 24 900 ace silent cobra 1.5 e.s. (same as anra) black anrh",
+   "model1": "skandic le 24\" 900 ace silent cobra 1.5\" e.s. (same as anra)",
+   "color": "black",
+   "modelCode": "ANRH",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17399"
+ },
+ {
+   "model": "skandic le 24 900 ace silent cobra 1.5 e.s. arctic desert anrb",
+   "model1": "skandic le 24\" 900 ace silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "ANRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17699"
+ },
+ {
+   "model": "skandic le 24 600r e-tec silent cobra 1.5 e.s. black aura",
+   "model1": "skandic le 24\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "AURA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17949"
+ },
+ {
+   "model": "skandic le 24 600r e-tec silent cobra 1.5 e.s. arctic desert aurb",
+   "model1": "skandic le 24\" 600r e-tec silent cobra 1.5\" e.s.",
+   "color": "arctic desert",
+   "modelCode": "AURB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18249"
+ },
+ {
+   "model": "skandic sport 600 efi utility 1.25 e.s. neo yellow ajra",
+   "model1": "skandic sport 600 efi utility 1.25\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "AJRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "12349"
+ },
+ {
+   "model": "tundra le 600 ace charger 1.5 e.s. black gnra",
+   "model1": "tundra le 600 ace charger 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "GNRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "13749"
+ },
+ {
+   "model": "tundra le 600 efi charger 1.5 e.s. black gdra",
+   "model1": "tundra le 600 efi charger 1.5\" e.s.",
+   "color": "black",
+   "modelCode": "GDRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "11649"
+ },
+ {
+   "model": "tundra le 600 efi charger 1.5 e.s. (same as gdra) black gdrc",
+   "model1": "tundra le 600 efi charger 1.5\" e.s. (same as gdra)",
+   "color": "black",
+   "modelCode": "GDRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "11649"
+ },
+ {
+   "model": "tundra sport 600 ace cobra 1.6 e.s. neo yellow gmra",
+   "model1": "tundra sport 600 ace cobra 1.6\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "GMRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "13099"
+ },
+ {
+   "model": "tundra sport 600 efi cobra 1.6 e.s. neo yellow gkra",
+   "model1": "tundra sport 600 efi cobra 1.6\" e.s.",
+   "color": "neo yellow",
+   "modelCode": "GKRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "10949"
+ },
+ {
+   "model": "summit - high-altidude calibration only, except neoandneo+",
+   "model1": "summit - high-altidude calibration only, except neoandneo+",
+   "color": "",
+   "modelCode": "",
+   "freight": "",
+   "commodity": "",
+   "pdi": "",
+   "msrp": ""
+ },
+ {
+   "model": "summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5 shot arctic desert ckrd",
+   "model1": "summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5\" shot",
+   "color": "arctic desert",
+   "modelCode": "CKRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17349"
+ },
+ {
+   "model": "summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5 shot timeless black ckrc",
+   "model1": "summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CKRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17649"
+ },
+ {
+   "model": "summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot arctic desert cgrc",
+   "model1": "summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5\" shot",
+   "color": "arctic desert",
+   "modelCode": "CGRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17749"
+ },
+ {
+   "model": "summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert cgrd",
+   "model1": "summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0\" shot",
+   "color": "arctic desert",
+   "modelCode": "CGRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18149"
+ },
+ {
+   "model": "summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cgra",
+   "model1": "summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CGRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18049"
+ },
+ {
+   "model": "summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot timeless black cgrb",
+   "model1": "summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0\" shot",
+   "color": "timeless black",
+   "modelCode": "CGRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18449"
+ },
+ {
+   "model": "summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert chrb",
+   "model1": "summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0\" shot",
+   "color": "arctic desert",
+   "modelCode": "CHRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18649"
+ },
+ {
+   "model": "summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot timeless black chra",
+   "model1": "summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0\" shot",
+   "color": "timeless black",
+   "modelCode": "CHRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "18949"
+ },
+ {
+   "model": "summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5 shot arctic desert ckrb",
+   "model1": "summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5\" shot",
+   "color": "arctic desert",
+   "modelCode": "CKRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15899"
+ },
+ {
+   "model": "summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5 shot timeless black ckra",
+   "model1": "summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CKRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16199"
+ },
+ {
+   "model": "summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot arctic desert cgrh",
+   "model1": "summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5\" shot",
+   "color": "arctic desert",
+   "modelCode": "CGRH",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16299"
+ },
+ {
+   "model": "summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cgrg",
+   "model1": "summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CGRG",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16599"
+ },
+ {
+   "model": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrf",
+   "model1": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5\" m.s.",
+   "color": "catalyst grey",
+   "modelCode": "CDRF",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16249"
+ },
+ {
+   "model": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. catalyst grey cdre",
+   "model1": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "CDRE",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16749"
+ },
+ {
+   "model": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot catalyst grey cdrg",
+   "model1": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5\" shot",
+   "color": "catalyst grey",
+   "modelCode": "CDRG",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16999"
+ },
+ {
+   "model": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. timeless black cdrh",
+   "model1": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5\" e.s.",
+   "color": "timeless black",
+   "modelCode": "CDRH",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17049"
+ },
+ {
+   "model": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot timeless black cdrj",
+   "model1": "summit adrenaline 146 850 e-tec powdermax flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CDRJ",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerh",
+   "model1": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5\" m.s.",
+   "color": "catalyst grey",
+   "modelCode": "CERH",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16499"
+ },
+ {
+   "model": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerg",
+   "model1": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "CERG",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16999"
+ },
+ {
+   "model": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot catalyst grey cerf",
+   "model1": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5\" shot",
+   "color": "catalyst grey",
+   "modelCode": "CERF",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17249"
+ },
+ {
+   "model": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. timeless black cerj",
+   "model1": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5\" e.s.",
+   "color": "timeless black",
+   "modelCode": "CERJ",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17299"
+ },
+ {
+   "model": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cerk",
+   "model1": "summit adrenaline 154 850 e-tec powdermax light flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CERK",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "17549"
+ },
+ {
+   "model": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrb",
+   "model1": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5\" m.s.",
+   "color": "catalyst grey",
+   "modelCode": "CDRB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "14799"
+ },
+ {
+   "model": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. catalyst grey cdra",
+   "model1": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "CDRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15299"
+ },
+ {
+   "model": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot catalyst grey cdrk",
+   "model1": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5\" shot",
+   "color": "catalyst grey",
+   "modelCode": "CDRK",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15549"
+ },
+ {
+   "model": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. timeless black cdrc",
+   "model1": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5\" e.s.",
+   "color": "timeless black",
+   "modelCode": "CDRC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15599"
+ },
+ {
+   "model": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot timeless black cdrd",
+   "model1": "summit adrenaline 146 600r e-tec powdermax flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CDRD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15849"
+ },
+ {
+   "model": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerd",
+   "model1": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5\" m.s.",
+   "color": "catalyst grey",
+   "modelCode": "CERD",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15049"
+ },
+ {
+   "model": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerc",
+   "model1": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5\" e.s.",
+   "color": "catalyst grey",
+   "modelCode": "CERC",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15549"
+ },
+ {
+   "model": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot catalyst grey cere",
+   "model1": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5\" shot",
+   "color": "catalyst grey",
+   "modelCode": "CERE",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15799"
+ },
+ {
+   "model": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. timeless black cera",
+   "model1": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5\" e.s.",
+   "color": "timeless black",
+   "modelCode": "CERA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "15849"
+ },
+ {
+   "model": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cerb",
+   "model1": "summit adrenaline 154 600r e-tec powdermax light flexedge 2.5\" shot",
+   "color": "timeless black",
+   "modelCode": "CERB",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "16099"
+ },
+ {
+   "model": "summit neo+ 600 efi (55) hurricane flexedge 1.75 e.s. lac neo yellow and black tvra",
+   "model1": "summit neo+ 600 efi (55) hurricane flexedge 1.75\" e.s. lac",
+   "color": "neo yellow and black",
+   "modelCode": "TVRA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "10199"
+ },
+ {
+   "model": "summit neo 600 efi (40) cobra flexedge 1.6 e.s. lac neo yellow and catalyst grey tura",
+   "model1": "summit neo 600 efi (40) cobra flexedge 1.6\" e.s. lac",
+   "color": "neo yellow and catalyst grey",
+   "modelCode": "TURA",
+   "freight": "640",
+   "commodity": "",
+   "pdi": "695",
+   "msrp": "9149"
+ },
+ {
+   "model": "suzuki",
+   "model1": "suzuki",
+   "color": "",
+   "modelCode": "",
+   "freight": "Freight Charge",
+   "commodity": "Surcharge",
+   "pdi": "pdi",
+   "msrp": "M.S.R.P."
+ },
+ {
+   "model": "hayabusa gsx1300rrqm3",
+   "model1": "hayabusa gsx1300rrqm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "22799"
+ },
+ {
+   "model": "gsx-rioooam3",
+   "model1": "gsx-rioooam3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "20599"
+ },
+ {
+   "model": "gsx-rioooram3",
+   "model1": "gsx-rioooram3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "23999"
+ },
+ {
+   "model": "gsx-k1000rzam3",
+   "model1": "gsx-k1000rzam3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "24099"
+ },
+ {
+   "model": "gsx-r750m3",
+   "model1": "gsx-r750m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "13899"
+ },
+ {
+   "model": "gsx-r750zm3",
+   "model1": "gsx-r750zm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "13999"
+ },
+ {
+   "model": "gsx-r600m3",
+   "model1": "gsx-r600m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "12899"
+ },
+ {
+   "model": "gsx-r600zm3",
+   "model1": "gsx-r600zm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "12999"
+ },
+ {
+   "model": "katana gsx-siooosrqm3",
+   "model1": "katana gsx-siooosrqm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "17799"
+ },
+ {
+   "model": "gsx-s1000m3",
+   "model1": "gsx-siooom3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "14699"
+ },
+ {
+   "model": "gsx-s1000gtm3",
+   "model1": "gsx-siooogtm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "16099"
+ },
+ {
+   "model": "gsx-s1000gtam3 touring kit",
+   "model1": "gsx-siooogtam3 touring kit",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "17699"
+ },
+ {
+   "model": "gsx-s750am3",
+   "model1": "gsx-s750am3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "10599"
+ },
+ {
+   "model": "gsx-s750zam3",
+   "model1": "gsx-s750zam3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "10799"
+ },
+ {
+   "model": "gsx-8sm3",
+   "model1": "gsx-8sm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "10749"
+ },
+ {
+   "model": "sv650am3",
+   "model1": "sv650am3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "8999"
+ },
+ {
+   "model": "sv650xam3",
+   "model1": "sv650xam3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "9299"
+ },
+ {
+   "model": "v-strom 1050 dl1050rrm3",
+   "model1": "v-strom 1050 dl1050rrm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "17899"
+ },
+ {
+   "model": "v-strom 1050 de dl1050rjm3",
+   "model1": "v-strom 1050 de dl1050rjm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "18999"
+ },
+ {
+   "model": "v-strom 1050de dl1050rjm3 adventure kit*",
+   "model1": "v-strom 1050de dl1050rjm3 adventure kit*",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "20299"
+ },
+ {
+   "model": "v-strom 650",
+   "model1": "v-strom 650",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "10699"
+ },
+ {
+   "model": "v-strom 650xt",
+   "model1": "v-strom 650xt",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "11499"
+ },
+ {
+   "model": "v-strom adventure kit",
+   "model1": "v-strom adventure kit",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "12999"
+ },
+ {
+   "model": "v-strom dl800de",
+   "model1": "v-strom dl800de",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "13299"
+ },
+ {
+   "model": "dr650sem3",
+   "model1": "dr650sem3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "200",
+   "pdi": "295",
+   "msrp": "7199"
+ },
+ {
+   "model": "dr-z400smm3 supermoto",
+   "model1": "dr-z400smm3 supermoto",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "200",
+   "pdi": "295",
+   "msrp": "8499"
+ },
+ {
+   "model": "dr-z400sm3",
+   "model1": "dr-z400sm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "200",
+   "pdi": "295",
+   "msrp": "8099"
+ },
+ {
+   "model": "boulevard m109r b.o.s.s. vzr1800bzm3",
+   "model1": "boulevard m109r b.o.s.s. vzr1800bzm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "17599"
+ },
+ {
+   "model": "boulevard c50t vl800tm3",
+   "model1": "boulevard c50t vl800tm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "12799"
+ },
+ {
+   "model": "boulevard c50 vl800m3",
+   "model1": "boulevard c50 vl800m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "12199"
+ },
+ {
+   "model": "burgman 400 an400am3",
+   "model1": "burgman 400 an400am3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "250",
+   "pdi": "295",
+   "msrp": "9899"
+ },
+ {
+   "model": "dr-z125lm3",
+   "model1": "dr-z125lm3",
+   "color": "",
+   "modelCode": "",
+   "freight": "250",
+   "commodity": "50",
+   "pdi": "295",
+   "msrp": "4199"
+ },
+ {
+   "model": "dr-z125m3",
+   "model1": "dr-z125m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "250",
+   "commodity": "50",
+   "pdi": "295",
+   "msrp": "3899"
+ },
+ {
+   "model": "dr-z50m3",
+   "model1": "dr-z50m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "250",
+   "commodity": "50",
+   "pdi": "295",
+   "msrp": "3099"
+ },
+ {
+   "model": "rm-z450m3",
+   "model1": "rm-z450m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "295",
+   "msrp": "11599"
+ },
+ {
+   "model": "rm-z250m3",
+   "model1": "rm-z250m3",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "295",
+   "msrp": "10699"
+ },
+ {
+   "model": "rm85m3t",
+   "model1": "rm85m3t",
+   "color": "",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "200",
+   "pdi": "295",
+   "msrp": "5449"
+ },
+ {
+   "model": "spyder",
+   "model1": "color",
+   "color": "model number",
+   "modelCode": "",
+   "freight": "FREIGHT",
+   "commodity": "COMMODITY SURCHARGE",
+   "pdi": "",
+   "msrp": "MSRP"
+ },
+ {
+   "model": "f3 (se6) steel black metallic 000e5pa00",
+   "model1": "f3 (se6)",
+   "color": "steel black metallic",
+   "modelCode": "0E5PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "23099"
+ },
+ {
+   "model": "f3-s special series (se6) monolith black satin 000e6pa00",
+   "model1": "f3-s special series (se6)",
+   "color": "monolith black satin",
+   "modelCode": "0E6PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "26299"
+ },
+ {
+   "model": "f3-s special series (se6) manta green 000e6pf00",
+   "model1": "f3-s special series (se6)",
+   "color": "manta green",
+   "modelCode": "0E6PF",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "26299"
+ },
+ {
+   "model": "f3-t (se6) pearl white 000h6pa00",
+   "model1": "f3-t (se6)",
+   "color": "pearl white",
+   "modelCode": "0H6PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "28599"
+ },
+ {
+   "model": "f3-t (se6) petrol metallic 000h6pb00",
+   "model1": "f3-t (se6)",
+   "color": "petrol metallic",
+   "modelCode": "0H6PB",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "28599"
+ },
+ {
+   "model": "f3 limited (se6) monolith black satin and dark 000h8pa00",
+   "model1": "f3 limited (se6)",
+   "color": "monolith black satin and dark",
+   "modelCode": "0H8PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "32499"
+ },
+ {
+   "model": "f3 limited (se6) petrol metallic and dark 000h8pf00",
+   "model1": "f3 limited (se6)",
+   "color": "petrol metallic and dark",
+   "modelCode": "0H8PF",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "32499"
+ },
+ {
+   "model": "f3 limited (se6) steel black metallic and platinum 000h9pa00",
+   "model1": "f3 limited (se6)",
+   "color": "steel black metallic and platinum",
+   "modelCode": "0H9PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "34399"
+ },
+ {
+   "model": "f3 limited (se6) plasma red and platinum 000h9pb00",
+   "model1": "f3 limited (se6)",
+   "color": "plasma red and platinum",
+   "modelCode": "0H9PB",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "34399"
+ },
+ {
+   "model": "f3 limited special series (se6) mineral blue and carbon black 000h7pa00",
+   "model1": "f3 limited special series (se6)",
+   "color": "mineral blue and carbon black",
+   "modelCode": "0H7PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "35599"
+ },
+ {
+   "model": "rt (se6) petrol metallic 000b2pb00",
+   "model1": "rt (se6)",
+   "color": "petrol metallic",
+   "modelCode": "0B2PB",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "29999"
+ },
+ {
+   "model": "rt (se6) hyper silver 000b2pa00",
+   "model1": "rt (se6)",
+   "color": "hyper silver",
+   "modelCode": "0B2PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "29999"
+ },
+ {
+   "model": "rt limited (se6) petrol metallic and dark 000g1pk00",
+   "model1": "rt limited (se6)",
+   "color": "petrol metallic and dark",
+   "modelCode": "0G1PK",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "34499"
+ },
+ {
+   "model": "rt limited (se6) deep marsala metallic and dark 000g1ph00",
+   "model1": "rt limited (se6)",
+   "color": "deep marsala metallic and dark",
+   "modelCode": "0G1PH",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "34499"
+ },
+ {
+   "model": "rt limited (se6) carbon black and dark 000g1pd00",
+   "model1": "rt limited (se6)",
+   "color": "carbon black and dark",
+   "modelCode": "0G1PD",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "34499"
+ },
+ {
+   "model": "rt limited (se6) hyper silver and dark 000g1pa00",
+   "model1": "rt limited (se6)",
+   "color": "hyper silver and dark",
+   "modelCode": "0G1PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "34499"
+ },
+ {
+   "model": "rt limited (se6) deep marsala metallic and platinum 000b9pc00",
+   "model1": "rt limited (se6)",
+   "color": "deep marsala metallic and platinum",
+   "modelCode": "0B9PC",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "36299"
+ },
+ {
+   "model": "rt limited (se6) hyper silver and platinum 000b9pa00",
+   "model1": "rt limited (se6)",
+   "color": "hyper silver and platinum",
+   "modelCode": "0B9PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "36299"
+ },
+ {
+   "model": "rt limited (se6) carbon black and platinum 000b9pb00",
+   "model1": "rt limited (se6)",
+   "color": "carbon black and platinum",
+   "modelCode": "0B9PB",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "36299"
+ },
+ {
+   "model": "rt sea-to-sky (se6) green shadow and prosecco 000g2pa00",
+   "model1": "rt sea-to-sky (se6)",
+   "color": "green shadow and prosecco",
+   "modelCode": "0G2PA",
+   "freight": "850",
+   "commodity": "1000",
+   "pdi": "549",
+   "msrp": "37499"
+ },
+ {
+   "model": "ryker (600 ace) classic, epic or exclusive panel color options** 000f1pa00",
+   "model1": "ryker (600 ace)",
+   "color": "classic, epic or exclusive panel color options**",
+   "modelCode": "0F1PA",
+   "freight": "625",
+   "commodity": "700",
+   "pdi": "549",
+   "msrp": "11399"
+ },
+ {
+   "model": "ryker (900 ace) classic, epic or exclusive panel color options** 000f2pa00",
+   "model1": "ryker (900 ace)",
+   "color": "classic, epic or exclusive panel color options**",
+   "modelCode": "0F2PA",
+   "freight": "625",
+   "commodity": "700",
+   "pdi": "549",
+   "msrp": "13599"
+ },
+ {
+   "model": "ryker sport (900 ace) classic, epic or exclusive panel color options** 000f5pa00",
+   "model1": "ryker sport (900 ace)",
+   "color": "classic, epic or exclusive panel color options**",
+   "modelCode": "0F5PA",
+   "freight": "625",
+   "commodity": "700",
+   "pdi": "549",
+   "msrp": "15099"
+ },
+ {
+   "model": "ryker rally (900 ace) classic, epic or exclusive panel color options** 000f3pa00",
+   "model1": "ryker rally (900 ace)",
+   "color": "classic, epic or exclusive panel color options**",
+   "modelCode": "0F3PA",
+   "freight": "625",
+   "commodity": "700",
+   "pdi": "549",
+   "msrp": "17499"
+ },
+ {
+   "model": "LT-A750XM3 Flame Red (YT9)",
+   "model1": "LT-A750XM3",
+   "color": "Flame Red (YT9)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Non-Power Steering",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A750XPM3 Flame Red (YT9)",
+   "model1": "LT-A750XPM3",
+   "color": "Flame Red (YT9)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A750XPM3 Terra Green(YLG)",
+   "model1": "LT-A750XPM3",
+   "color": "Terra Green(YLG)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A750XPZM3 Great Blue (YPW)",
+   "model1": "LT-A750XPZM3",
+   "color": "Great Blue (YPW)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Mag wheels,\nCarrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A750XPZSM3 Metallic Mat Rocky Gray(QTF)",
+   "model1": "LT-A750XPZSM3",
+   "color": "Metallic Mat Rocky Gray(QTF)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering,Special Colour,\nMag wheels, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A750XPZSM3 Cast Carbon(QZ8)",
+   "model1": "LT-A750XPZSM3",
+   "color": "Cast Carbon(QZ8)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "\"Power Steering,Special Colour,\nMag wheels, Carrier Covers\"",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A750XPZCM3 True Timber Kanati(QTM)",
+   "model1": "LT-A750XPZCM3",
+   "color": "True Timber Kanati(QTM)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Special Colour,\nMag wheels, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "500 Series",
+   "model1": "500 Series",
+   "color": "",
+   "modelCode": "",
+   "freight": "",
+   "commodity": "",
+   "pdi": "",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XM3 Terra Green(YLG)",
+   "model1": "LT-A500XM3",
+   "color": "Terra Green(YLG)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Non-Power Steering",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XPM3 Flame Red(YT9)",
+   "model1": "LT-A500XPM3",
+   "color": "Flame Red(YT9)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XPM3 Terra Green(YLG)",
+   "model1": "LT-A500XPM3",
+   "color": "Terra Green(YLG)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XPZM3 Great Blue (YPW)",
+   "model1": "LT-A500XPZM3",
+   "color": "Great Blue (YPW)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering,Mag Wheels,\nCarrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XPZSM3 Metallic Mat Rocky Gray(QTF)",
+   "model1": "LT-A500XPZSM3",
+   "color": "Metallic Mat Rocky Gray(QTF)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Special Colour,\nMag Wheels, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XPZSM3 Cast Carbon(QZ8)",
+   "model1": "LT-A500XPZSM3",
+   "color": "Cast Carbon(QZ8)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering, Special Colour,\nMag Wheels, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A500XPZCM3 True Timber Kanati(QTM)",
+   "model1": "LT-A500XPZCM3",
+   "color": "True Timber Kanati(QTM)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Power Steering,Special Colour,\nBlack Mag Wheels, Carrier Covers",
+   "msrp": ""
+ },
+ {
+   "model": "400 Series",
+   "model1": "400 Series",
+   "color": "",
+   "modelCode": "",
+   "freight": "",
+   "commodity": "",
+   "pdi": "",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A400FSM3 Metallic Mat Rocky Gray(QTF)",
+   "model1": "LT-A400FSM3",
+   "color": "Metallic Mat Rocky Gray(QTF)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Automatic",
+   "msrp": ""
+ },
+ {
+   "model": "LT-A400FM3 Flame Red(YT9)",
+   "model1": "LT-A400FM3",
+   "color": "Flame Red(YT9)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Automatic",
+   "msrp": ""
+ },
+ {
+   "model": "LT-F400FM3 Terra Green(YLG)",
+   "model1": "LT-F400FM3",
+   "color": "Terra Green(YLG)",
+   "modelCode": "",
+   "freight": "350",
+   "commodity": "100",
+   "pdi": "Manual",
+   "msrp": ""
+ },
+ {
+   "model": "KIDS ATV's ",
+   "model1": "KIDS ATV's",
+   "color": "",
+   "modelCode": "",
+   "freight": "",
+   "commodity": "",
+   "pdi": "",
+   "msrp": ""
+ },
+ {
+   "model": "LT-Z90M3 Champion Yellow No 2 (YU1)",
+   "model1": "LT-Z90M3",
+   "color": "Champion Yellow No 2 (YU1)",
+   "modelCode": "",
+   "freight": "250",
+   "commodity": "50",
+   "pdi": "Electric Start,Throttle Limiter, 6.0L Fuel Tank.",
+   "msrp": ""
+ },
+ {
+   "model": "LT-Z50M3 Champion Yellow No 2 (YU1)",
+   "model1": "LT-Z50M3",
+   "color": "Champion Yellow No 2 (YU1)",
+   "modelCode": "",
+   "freight": "250",
+   "commodity": "50",
+   "pdi": "Electric Start, Throttle Limiter, 6.0L Fuel Tank.",
+   "msrp": ""
+ }
+]
