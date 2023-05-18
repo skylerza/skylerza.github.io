@@ -1,0 +1,564 @@
+model,model1,color,modelCode,freight,commodity,pdi,msrp
+outlander 450 viper red 0005apa00*,outlander 450,viper red,05APA,600,300,695,7999
+outlander 450 tundra green 0005apb00*,outlander 450,tundra green,05APB,600,300,695,7999
+outlander 570 viper red 0002tpa00*,outlander 570,viper red,02TPA,600,300,695,8899
+outlander 570 tundra green 0002tpb00*,outlander 570,tundra green,02TPB,600,300,695,8899
+outlander dps 450 granite gray 0002wpa00*,outlander dps 450,granite gray,02WPA,600,300,695,9199
+outlander dps 450 tundra green 0002wpb00*,outlander dps 450,tundra green,02WPB,600,300,695,9199
+outlander dps 450 mossy oak break-up country camo 0002wpc00*,outlander dps 450,mossy oak break-up country camo,02WPC,600,300,695,9799
+outlander dps 570 granite gray 0002cpa00*,outlander dps 570,granite gray,02CPA,600,300,695,10099
+outlander dps 570 tundra green 0002cpb00*,outlander dps 570,tundra green,02CPB,600,300,695,10099
+outlander dps 570 mossy oak break-up country camo 0002cpc00*,outlander dps 570,mossy oak break-up country camo,02CPC,600,300,695,10699
+outlander xt 570 boreal green 0002upa00*,outlander xt 570,boreal green,02UPA,600,300,695,11399
+outlander xt 570 oxford blue 0002upb00*,outlander xt 570,oxford blue,02UPB,600,300,695,11399
+outlander hunting edition 450 mossy oak break-up country camo 0002vpa00*,outlander hunting edition 450,mossy oak break-up country camo,02VPA,600,300,695,11549
+outlander hunting edition 570 mossy oak break-up country camo 0003zpa00*,outlander hunting edition 570,mossy oak break-up country camo,03ZPA,600,300,695,12349
+outlander mr 570 viper red 0001rpa00*,outlander mr 570,viper red,01RPA,600,300,695,9999
+outlander x mr 570 desert tan 0003mpa00*,outlander x mr 570,desert tan,03MPA,600,300,695,11749
+outlander 500 2wd legion red 0001kpb00,outlander 500 2wd,legion red,01KPB,600,300,695,7999
+outlander 500 granite gray 0001bpa00,outlander 500,granite gray,01BPA,600,300,695,8699
+outlander 500 legion red 0001bpb00,outlander 500,legion red,01BPB,600,300,695,8699
+outlander 700 granite gray 0001cpa00,outlander 700,granite gray,01CPA,600,300,695,9399
+outlander 700 legion red 0001cpb00,outlander 700,legion red,01CPB,600,300,695,9399
+outlander dps 500 granite gray 0001dpa00,outlander dps 500,granite gray,01DPA,600,300,695,9999
+outlander dps 500 legion red 0001dpb00,outlander dps 500,legion red,01DPB,600,300,695,9999
+outlander dps 500 wildland camo 0001dpc00,outlander dps 500,wildland camo,01DPC,600,300,695,10699
+outlander dps 700 granite gray 0001epa00,outlander dps 700,granite gray,01EPA,600,300,695,10699
+outlander dps 700 legion red 0001epb00,outlander dps 700,legion red,01EPB,600,300,695,10699
+outlander dps 700 wildland camo 0001epc00,outlander dps 700,wildland camo,01EPC,600,300,695,11399
+outlander xt 700 platinum satin 0001gpa00,outlander xt 700,platinum satin,01GPA,600,300,695,11999
+outlander xt 700 neo yellow 0001gpb00,outlander xt 700,neo yellow,01GPB,600,300,695,11999
+outlander pro hd5 desert tan 0001hpa00,outlander pro hd5,desert tan,01HPA,600,300,695,9099
+outlander pro hd5 tundra green 0001hpf00,outlander pro hd5,tundra green,01HPF,600,300,695,9099
+outlander pro hd7 desert tan 0001jpa00,outlander pro hd7,desert tan,01JPA,600,300,695,9799
+outlander pro hd7 tundra green 0001jpb00,outlander pro hd7,tundra green,01JPB,600,300,695,9799
+outlander pro xu hd5 desert tan 0001lpa00,outlander pro xu hd5,desert tan,01LPA,600,300,695,10899
+outlander pro xu hd5 tundra green 0001lpb00,outlander pro xu hd5,tundra green,01LPB,600,300,695,10899
+outlander pro xu hd7 desert tan 0001mpa00,outlander pro xu hd7,desert tan,01MPA,600,300,695,11599
+outlander pro xu hd7 tundra green 0001mpb00,outlander pro xu hd7,tundra green,01MPB,600,300,695,11599
+outlander pro hunting edition hd5 wildland camo 0001npa00,outlander pro hunting edition hd5,wildland camo,01NPA,600,300,695,12499
+outlander pro hunting edition hd7 wildland camo 0001ppa00,outlander pro hunting edition hd7,wildland camo,01PPA,600,300,695,13399
+outlander max dps 500 granite gray 0001vpa00,outlander max dps 500,granite gray,01VPA,600,300,695,11499
+outlander max dps 500 legion red 0001vpb00,outlander max dps 500,legion red,01VPB,600,300,695,11499
+outlander max dps 700 granite gray 0001wpa00,outlander max dps 700,granite gray,01WPA,600,300,695,12199
+outlander max dps 700 legion red 0001wpb00,outlander max dps 700,legion red,01WPB,600,300,695,12199
+outlander max xt 700 platinum satin 0001ypa00,outlander max xt 700,platinum satin,01YPA,600,300,695,13499
+outlander max xt 700 neo yellow 0001ypb00,outlander max xt 700,neo yellow,01YPB,600,300,695,13499
+outlander 850 viper red 0002hpa00,outlander 850,viper red,02HPA,600,450,695,12499
+outlander dps 850 granite gray 0002ape00,outlander dps 850,granite gray,02APE,600,450,695,13799
+outlander xt 850 mossy oak break-up country camo 0002jpd00,outlander xt 850,mossy oak break-up country camo,02JPD,600,450,695,15299
+outlander xt 850 platinum satin 0002jpe00,outlander xt 850,platinum satin,02JPE,600,450,695,15099
+outlander xt 850 oxford blue 0002jpf00,outlander xt 850,oxford blue,02JPF,600,450,695,15099
+outlander xt 1000r platinum satin 0005tpd00,outlander xt 1000r,platinum satin,05TPD,600,450,695,16799
+outlander xt 1000r oxford blue 0005tpe00,outlander xt 1000r,oxford blue,05TPE,600,450,695,16799
+outlander xt 1000r mossy oak break-up country camo 0005tpf00,outlander xt 1000r,mossy oak break-up country camo,05TPF,600,450,695,16999
+outlander xt-p 850 iron gray & neo yellow 0005rpb00,outlander xt-p 850,iron gray & neo yellow,05RPB,600,450,695,17299
+outlander xt-p 1000r iron gray & neo yellow 0005xpa00,outlander xt-p 1000r,iron gray & neo yellow,05XPA,600,450,695,18699
+outlander x xc 1000r chalk gray & can-am red 0004mpa00,outlander x xc 1000r,chalk gray & can-am red,04MPA,600,450,695,19399
+outlander hunting edition 850 mossy oak break-up country camo 0004spa00,outlander hunting edition 850,mossy oak break-up country camo,04SPA,600,450,695,15599
+outlander x mr 850 desert tan 0004kpa00,outlander x mr 850,desert tan,04KPA,600,450,695,16449
+outlander x mr 1000r desert tan 0005kpa00,outlander x mr 1000r,desert tan,05KPA,600,450,695,18549
+outlander x mr 1000r liquid titanium & can-am red 0005kpb00,outlander x mr 1000r,liquid titanium & can-am red,05KPB,600,450,695,19049
+outlander max 450 viper red 0005cpa00*,outlander max 450,viper red,05CPA,600,300,695,9399
+outlander max 570 viper red 0002epa00*,outlander max 570,viper red,02EPA,600,300,695,10299
+outlander max dps 450 granite gray 0002xpa00*,outlander max dps 450,granite gray,02XPA,600,300,695,10599
+outlander max dps 450 tundra green 0002xpb00*,outlander max dps 450,tundra green,02XPB,600,300,695,10599
+outlander max dps 570 granite gray 0002fpa00*,outlander max dps 570,granite gray,02FPA,600,300,695,11499
+outlander max dps 570 tundra green 0002fpb00*,outlander max dps 570,tundra green,02FPB,600,300,695,11499
+outlander max xt 570 oxford blue 0002gpa00*,outlander max xt 570,oxford blue,02GPA,600,300,695,12799
+outlander max xt 570 boreal green 0002gpb00*,outlander max xt 570,boreal green,02GPB,600,300,695,12799
+outlander max dps 850 granite gray 0002dpb00,outlander max dps 850,granite gray,02DPB,600,450,695,15199
+outlander max xt 850 platinum satin 0002lpe00,outlander max xt 850,platinum satin,02LPE,600,450,695,16499
+outlander max xt 850 mossy oak break-up country camo 0002lpf00,outlander max xt 850,mossy oak break-up country camo,02LPF,600,450,695,16699
+outlander max xt 850 oxford blue 0002lpg00,outlander max xt 850,oxford blue,02LPG,600,450,695,16499
+outlander max xt 1000r platinum satin 0005upc00,outlander max xt 1000r,platinum satin,05UPC,600,450,695,18199
+outlander max xt 1000r oxford blue 0005upd00,outlander max xt 1000r,oxford blue,05UPD,600,450,695,18199
+outlander max xt-p 850 iron gray & neo yellow 0005fpc00,outlander max xt-p 850,iron gray & neo yellow,05FPC,600,450,695,18699
+outlander max xt-p 1000r iron gray & neo yellow 0005jpd00,outlander max xt-p 1000r,iron gray & neo yellow,05JPD,600,450,695,20099
+outlander max limited 1000r stone gray 0005wpa00,outlander max limited 1000r,stone gray,05WPA,600,450,695,19899
+outlander max 6x6 dps 450 tundra green 0004zpa00,outlander max 6x6 dps 450,tundra green,04ZPA,600,450,695,12799
+outlander max 6x6 dps 650 tundra green 0005ypa00,outlander max 6x6 dps 650,tundra green,05YPA,600,450,695,17699
+outlander max 6x6 max xt 1000 boreal green 0005zpa00,outlander max 6x6 max xt 1000,boreal green,05ZPA,600,450,695,20599
+renegade 650 catalyst gray 0005ppb00,renegade 650,catalyst gray,05PPB,600,450,695,12699
+renegade x mr 650 catalyst gray & neo yellow 0004tpa00,renegade x mr 650,catalyst gray & neo yellow,04TPA,600,450,695,16149
+renegade x xc 1000r catalyst gray & neo yellow 0005vpa00,renegade x xc 1000r,catalyst gray & neo yellow,05VPA,600,450,695,18799
+renegade x mr 1000r catalyst gray & neo yellow 0004fpa00,renegade x mr 1000r,catalyst gray & neo yellow,04FPA,600,450,695,20349
+renegade x mr 1000r liquid titanium & can-am red 0004fpb00,renegade x mr 1000r,liquid titanium & can-am red,04FPB,600,450,695,20849
+renegade 70 efi catalyst gray & neo yellow 0003kpa00,renegade 70 efi,catalyst gray & neo yellow,03KPA,300,125,695,3699
+renegade 70 efi iceberg blue & black 0003kpb00,renegade 70 efi,iceberg blue & black,03KPB,300,125,695,3699
+renegade 110 efi catalyst gray & neo yellow 0003cpa00,renegade 110 efi,catalyst gray & neo yellow,03CPA,300,125,695,4299
+renegade 110 efi iceberg blue & black 0003cpb00,renegade 110 efi,iceberg blue & black,03CPB,300,125,695,4299
+renegade x xc 110 efi black & legion red 0003lpa00,renegade x xc 110 efi,black & legion red,03LPA,300,125,695,4899
+ds 250 black & can-am red 0003jpa00,ds 250,black & can-am red,03JPA,600,125,695,5449
+defender hd7 tundra green 0006xpb00,defender hd7,tundra green,06XPB,985,500,995,14799
+defender dps hd7 tundra green 0008wpb00,defender dps hd7,tundra green,08WPB,985,500,995,16899
+defender dps hd7 mossy oak break-up country camo 0008wpd00,defender dps hd7,mossy oak break-up country camo,08WPD,985,500,995,17499
+defender hd9 tundra green 0006wpb00,defender hd9,tundra green,06WPB,985,500,995,18099
+defender dps hd9 tundra green 0008epb00,defender dps hd9,tundra green,08EPB,985,500,995,19699
+defender dps hd9 oxford blue 0008epd00,defender dps hd9,oxford blue,08EPD,985,500,995,20699
+defender dps hd9 timeless black 0008epf00,defender dps hd9,timeless black,08EPF,985,500,995,20699
+defender dps hd9 mossy oak break-up country camo 0008eph00,defender dps hd9,mossy oak break-up country camo,08EPH,985,500,995,20899
+defender xt hd9 oxford blue 0008fpb00,defender xt hd9,oxford blue,08FPB,985,500,995,22399
+defender xt hd9 stone gray 0008fpd00,defender xt hd9,stone gray,08FPD,985,500,995,22399
+defender xt hd9 timeless black 0008fpf00,defender xt hd9,timeless black,08FPF,985,500,995,22399
+defender xt hd9 mossy oak break-up country camo 0008fph00,defender xt hd9,mossy oak break-up country camo,08FPH,985,500,995,22699
+defender dps cab hd9 tundra green 0008upb00,defender dps cab hd9,tundra green,08UPB,1300,500,995,27899
+defender dps hd10 tundra green 0008bpb00,defender dps hd10,tundra green,08BPB,985,500,995,22699
+defender dps hd10 oxford blue 0008bpd00,defender dps hd10,oxford blue,08BPD,985,500,995,23299
+defender dps hd10 timeless black 0008bpf00,defender dps hd10,timeless black,08BPF,985,500,995,23299
+defender xt hd10 oxford blue 0008cpb00,defender xt hd10,oxford blue,08CPB,985,500,995,25699
+defender xt hd10 stone gray 0008cpd00,defender xt hd10,stone gray,08CPD,985,500,995,25699
+defender xt hd10 timeless black 0008cpf00,defender xt hd10,timeless black,08CPF,985,500,995,25699
+defender xt hd10 mossy oak break-up country camo 0008cph00,defender xt hd10,mossy oak break-up country camo,08CPH,985,500,995,25999
+defender x mr hd10 liquid titanium & magma red 0008ypb00,defender x mr hd10,liquid titanium & magma red,08YPB,1300,500,995,28199
+defender x mr hd10 mossy oak break-up country camo 0008ypc00,defender x mr hd10,mossy oak break-up country camo,08YPC,1300,500,995,28499
+defender x mr hd10 with half doors liquid titanium & magma red 0008ypa00,defender x mr hd10 with half doors,liquid titanium & magma red,08YPA,1300,500,995,29799
+defender limited cab hd10 oxford blue 0008jpb00,defender limited cab hd10,oxford blue,08JPB,1300,500,995,34899
+defender limited cab hd10 stone gray 0008jpd00,defender limited cab hd10,stone gray,08JPD,1300,500,995,34899
+defender limited cab hd10 desert tan & timeless black 0008jph00,defender limited cab hd10,desert tan & timeless black,08JPH,1300,500,995,34999
+defender limited cab hd10 mossy oak break-up country camo 0008jpf00,defender limited cab hd10,mossy oak break-up country camo,08JPF,1300,500,995,35299
+defender max hd7 tundra green 0008zpb00,defender max hd7,tundra green,08ZPB,1090,500,995,17899
+defender max hd9 tundra green 0008dpb00,defender max hd9,tundra green,08DPB,1090,500,995,19799
+defender max dps hd7 tundra green 0008ppd00,defender max dps hd7,tundra green,08PPD,1090,500,995,19999
+defender max dps hd9 tundra green 0008rpb00,defender max dps hd9,tundra green,08RPB,1090,500,995,22299
+defender max dps hd9 timeless black 0008rpd00,defender max dps hd9,timeless black,08RPD,1090,500,995,22899
+defender max dps hd9 mossy oak break-up country camo 0008rpf00,defender max dps hd9,mossy oak break-up country camo,08RPF,1090,500,995,23199
+defender max xt hd9 oxford blue 0008spb00,defender max xt hd9,oxford blue,08SPB,1090,500,995,25199
+defender max xt hd9 stone gray 0008spd00,defender max xt hd9,stone gray,08SPD,1090,500,995,25199
+defender max xt hd9 mossy oak break-up country camo 0008spf00,defender max xt hd9,mossy oak break-up country camo,08SPF,1090,500,995,25599
+defender max dps hd10 oxford blue 0008lpb00,defender max dps hd10,oxford blue,08LPB,1090,500,995,25099
+defender max dps hd10 timeless black 0008lpd00,defender max dps hd10,timeless black,08LPD,1090,500,995,25099
+defender max xt hd10 oxford blue 0008mpb00,defender max xt hd10,oxford blue,08MPB,1090,500,995,27699
+defender max xt hd10 stone gray 0008mpd00,defender max xt hd10,stone gray,08MPD,1090,500,995,27699
+defender max xt hd10 mossy oak break-up country camo 0008mpf00,defender max xt hd10,mossy oak break-up country camo,08MPF,1090,500,995,27999
+defender max lone star hd10 night black 0006upa00,defender max lone star hd10,night black,06UPA,1090,500,995,29499
+defender max x mr mossy oak break-up country camo 0008ppb00,defender max x mr,mossy oak break-up country camo,08PPB,1405,500,995,30599
+defender max x mr with half doors liquid titanium & magma red 0008ppa00,defender max x mr with half doors,liquid titanium & magma red,08PPA,1405,500,995,33299
+defender max limited cab hd10 oxford blue 0006mpb00,defender max limited cab hd10,oxford blue,06MPB,1405,500,995,38899
+defender max limited cab hd10 stone gray 0006mpd00,defender max limited cab hd10,stone gray,06MPD,1405,500,995,38899
+defender max limited cab hd10 desert tan & timeless black 0006mph00,defender max limited cab hd10,desert tan & timeless black,06MPH,1405,500,995,38999
+defender max limited cab hd10 mossy oak break-up country camo 0006mpf00,defender max limited cab hd10,mossy oak break-up country camo,06MPF,1405,500,995,39399
+defender max lone star cab hd10 night black 0006lpa00,defender max lone star cab hd10,night black,06LPA,1405,500,995,42399
+defender pro dps hd10 tundra green 0006apb00,defender pro dps hd10,tundra green,06APB,1090,500,995,24399
+defender pro xt hd10 timeless black 0006epd00,defender pro xt hd10,timeless black,06EPD,1090,500,995,27899
+defender pro limited cab hd10 stone gray 0009hpd00,defender pro limited cab hd10,stone gray,09HPD,1405,500,995,37299
+defender 6x6 dps hd10 tundra green 0009vpa00,defender 6x6 dps hd10,tundra green,09VPA,1090,500,995,24999
+defender 6x6 xt hd10 oxford blue 0009rpa00,defender 6x6 xt hd10,oxford blue,09RPA,1090,500,995,28699
+defender 6x6 limited cab hd10 oxford blue 0009spa00,defender 6x6 limited cab hd10,oxford blue,09SPA,1405,500,995,37899
+commander dps 700 tundra green 0009ppb00,commander dps 700,tundra green,09PPB,985,500,995,18199
+commander xt 700 oxford blue 0009apb00,commander xt 700,oxford blue,09APB,985,500,995,20599
+commander xt 700 triple black 0009apd00,commander xt 700,triple black,09APD,985,500,995,20599
+commander dps 1000r tundra green 0006ppb00,commander dps 1000r,tundra green,06PPB,985,500,995,22199
+commander xt 1000r oxford blue 0006gpb00,commander xt 1000r,oxford blue,06GPB,985,500,995,26199
+commander xt 1000r triple black 0006gpd00,commander xt 1000r,triple black,06GPD,985,500,995,26199
+commander xt 1000r mossy oak break-up country camo 0006gpf00,commander xt 1000r,mossy oak break-up country camo,06GPF,985,500,995,26599
+commander x mr 1000r mossy oak break-up country camo 0006spa00,commander x mr 1000r,mossy oak break-up country camo,06SPA,985,500,995,27899
+commander xt-p 1000r desert tan & carbon black 0006ypb00,commander xt-p 1000r,desert tan & carbon black,06YPB,985,500,995,30599
+commander max dps 1000r tundra green 0006hpb00,commander max dps 1000r,tundra green,06HPB,1090,500,995,25999
+commander max xt 1000r oxford blue 0006kpb00,commander max xt 1000r,oxford blue,06KPB,1090,500,995,29899
+commander max xt 1000r triple black 0006kpd00,commander max xt 1000r,triple black,06KPD,1090,500,995,29899
+commander max xt 1000r mossy oak break-up country camo 0006kpf00,commander max xt 1000r,mossy oak break-up country camo,06KPF,1090,500,995,30299
+commander max xt-p 1000r desert tan & carbon black 0006cpb00,commander max xt-p 1000r,desert tan & carbon black,06CPB,1090,500,995,34299
+maverick trail 700 catalyst gray 0007rpb00,maverick trail 700,catalyst gray,07RPB,930,500,995,16499
+maverick trail dps 700 triple black 0007hpb00,maverick trail dps 700,triple black,07HPB,930,500,995,18899
+maverick trail dps 1000 triple black 0007fpf00,maverick trail dps 1000,triple black,07FPF,930,500,995,20599
+maverick trail dps 1000 oxford blue 0007fpb00,maverick trail dps 1000,oxford blue,07FPB,930,500,995,20599
+maverick trail dps 1000 mossy oak break-up country camo 0007fpd00,maverick trail dps 1000,mossy oak break-up country camo,07FPD,930,500,995,20899
+maverick sport dps 1000r oxford blue 0009gpb00,maverick sport dps 1000r,oxford blue,09GPB,930,500,995,24299
+maverick sport dps 1000r triple black 0009gpd00,maverick sport dps 1000r,triple black,09GPD,930,500,995,24299
+maverick sport x xc 1000r desert tan & carbon black 0007cpb00,maverick sport x xc 1000r,desert tan & carbon black,07CPB,930,500,995,27399
+maverick sport x mr 1000r liquid titanium & magma red 0006fpa00,maverick sport x mr 1000r,liquid titanium & magma red,06FPA,930,500,995,28499
+maverick sport x rc 1000r mineral gray & desert tan 0007bpb00,maverick sport x rc 1000r,mineral gray & desert tan,07BPB,930,500,995,28999
+maverick sport max dps 1000r triple black 0009jpb00,maverick sport max dps 1000r,triple black,09JPB,1080,500,995,26699
+maverick x3 ds turbo catalyst gray 0009dph00,maverick x3 ds turbo,catalyst gray,09DPH,1080,500,995,26599
+maverick x3 ds turbo octane blue 0009dpb00,maverick x3 ds turbo,octane blue,09DPB,1080,500,995,26599
+maverick x3 ds turbo desert tan & carbon black 0009dpf00,maverick x3 ds turbo,desert tan & carbon black,09DPF,1080,500,995,27599
+maverick x3 ds turbo rr catalyst gray 0007xpf00,maverick x3 ds turbo rr,catalyst gray,07XPF,1080,500,995,29699
+maverick x3 ds turbo rr octane blue 0007xpb00,maverick x3 ds turbo rr,octane blue,07XPB,1080,500,995,29699
+maverick x3 ds turbo rr desert tan & carbon black 0007xpd00,maverick x3 ds turbo rr,desert tan & carbon black,07XPD,1080,500,995,30699
+maverick x3 rs turbo rr catalyst gray 0009epf00,maverick x3 rs turbo rr,catalyst gray,09EPF,1080,500,995,31899
+maverick x3 rs turbo rr octane blue 0009epb00,maverick x3 rs turbo rr,octane blue,09EPB,1080,500,995,31899
+maverick x3 rs turbo rr desert tan & carbon black 0009epd00,maverick x3 rs turbo rr,desert tan & carbon black,09EPD,1080,500,995,32899
+maverick x3 x ds turbo rr triple black 0007spf00,maverick x3 x ds turbo rr,triple black,07SPF,1080,500,995,34099
+"maverick x3 x ds turbo rr desert tan, carbon black & magma red 0007spb00",maverick x3 x ds turbo rr,"desert tan, carbon black & magma red",07SPB,1080,500,995,34299
+maverick x3 x rs turbo rr triple black 0007tpf00,maverick x3 x rs turbo rr,triple black,07TPF,1080,500,995,37599
+"maverick x3 x rs turbo rr desert tan, carbon black & magma red 0007tpb00",maverick x3 x rs turbo rr,"desert tan, carbon black & magma red",07TPB,1080,500,995,37799
+"maverick x3 x rs turbo rr intense blue, carbon black & chalk gray 0007tpk00",maverick x3 x rs turbo rr,"intense blue, carbon black & chalk gray",07TPK,1080,500,995,37799
+maverick x3 x rs turbo rr smart-shox triple black 0007tph00,maverick x3 x rs turbo rr smart-shox,triple black,07TPH,1080,500,995,39599
+"maverick x3 x rs turbo rr smart-shox desert tan, carbon black & magma red 0007tpd00",maverick x3 x rs turbo rr smart-shox,"desert tan, carbon black & magma red",07TPD,1080,500,995,39799
+"maverick x3 x rs turbo rr smart-shox intense blue, carbon black & chalk gray 0007tpm00",maverick x3 x rs turbo rr smart-shox,"intense blue, carbon black & chalk gray",07TPM,1080,500,995,39799
+maverick x3 x mr 64'' turbo rr liquid titanium & magma red 0006vpa00,maverick x3 x mr 64'' turbo rr,liquid titanium & magma red,06VPA,1080,500,995,34199
+maverick x3 x mr turbo rr liquid titanium & magma red 0009lpa00,maverick x3 x mr turbo rr,liquid titanium & magma red,09LPA,1080,500,995,36099
+maverick x3 x rc 64'' turbo rr mineral gray & desert tan 0007kpb00,maverick x3 x rc 64'' turbo rr,mineral gray & desert tan,07KPB,1080,500,995,35799
+maverick x3 x rc turbo rr mineral gray & desert tan 0009mpb00,maverick x3 x rc turbo rr,mineral gray & desert tan,09MPB,1080,500,995,39999
+maverick x3 max ds turbo catalyst gray 0007wph00,maverick x3 max ds turbo,catalyst gray,07WPH,1175,500,995,30699
+maverick x3 max ds turbo octane blue 0007wpb00,maverick x3 max ds turbo,octane blue,07WPB,1175,500,995,30699
+maverick x3 max ds turbo desert tan & carbon black 0007wpf00,maverick x3 max ds turbo,desert tan & carbon black,07WPF,1175,500,995,31899
+maverick x3 max ds turbo rr catalyst gray 0007upf00,maverick x3 max ds turbo rr,catalyst gray,07UPF,1175,500,995,33299
+maverick x3 max ds turbo rr octane blue 0007upb00,maverick x3 max ds turbo rr,octane blue,07UPB,1175,500,995,33299
+maverick x3 max ds turbo rr desert tan & carbon black 0007upd00,maverick x3 max ds turbo rr,desert tan & carbon black,07UPD,1175,500,995,34499
+maverick x3 max rs turbo rr catalyst gray 0007ypf00,maverick x3 max rs turbo rr,catalyst gray,07YPF,1175,500,995,35499
+maverick x3 max rs turbo rr octane blue 0007ypb00,maverick x3 max rs turbo rr,octane blue,07YPB,1175,500,995,35499
+maverick x3 max rs turbo rr desert tan & carbon black 0007ypd00,maverick x3 max rs turbo rr,desert tan & carbon black,07YPD,1175,500,995,36699
+maverick x3 max x ds turbo rr triple black 0007vpf00,maverick x3 max x ds turbo rr,triple black,07VPF,1175,500,995,37599
+"maverick x3 max x ds turbo rr desert tan, carbon black & magma red 0007vpb00",maverick x3 max x ds turbo rr,"desert tan, carbon black & magma red",07VPB,1175,500,995,37799
+maverick x3 max x rs turbo rr triple black 0009npf00,maverick x3 max x rs turbo rr,triple black,09NPF,1175,500,995,40999
+"maverick x3 max x rs turbo rr desert tan, carbon black & magma red 0009npb00",maverick x3 max x rs turbo rr,"desert tan, carbon black & magma red",09NPB,1175,500,995,41199
+"maverick x3 max x rs turbo rr intense blue, carbon black & chalk gray 0009npk00",maverick x3 max x rs turbo rr,"intense blue, carbon black & chalk gray",09NPK,1175,500,995,41199
+maverick x3 max x rs turbo rr smart-shox triple black 0009nph00,maverick x3 max x rs turbo rr smart-shox,triple black,09NPH,1175,500,995,42999
+"maverick x3 max x rs turbo rr smart-shox desert tan, carbon black & magma red 0009npd00",maverick x3 max x rs turbo rr smart-shox,"desert tan, carbon black & magma red",09NPD,1175,500,995,43199
+"maverick x3 max x rs turbo rr smart-shox intense blue, carbon black & chalk gray 0009npm00",maverick x3 max x rs turbo rr smart-shox,"intense blue, carbon black & chalk gray",09NPM,1175,500,995,43199
+maverick x3 max x mr turbo rr liquid titanium & magma red 0007zpa00,maverick x3 max x mr turbo rr,liquid titanium & magma red,07ZPA,1175,500,995,39099
+fishprotm trophy 170 (tech package) shark grey and orange crush 18pg,fishprotm trophy 170 (tech package),shark grey and orange crush,18PG,650,810,895,24799
+fishpro sport 170 (sound system) white and gulf stream blue 18pc,fishpro sport 170 (sound system),white and gulf stream blue,18PC,650,810,895,21699
+fishpro sport 170 white and gulf stream blue 18pa,fishpro sport 170,white and gulf stream blue,18PA,650,810,895,20499
+fishpro scout 130 white and gulf stream blue 33pa,fishpro scout 130,white and gulf stream blue,33PA,650,615,895,17699
+explorer pro 170  (tech package) eclipse black and neon yellow 17pc,explorer pro 170  (tech package),eclipse black and neon yellow,17PC,650,810,895,22899
+explorer pro 170 eclipse black and neon yellow 17pa,explorer pro 170,eclipse black and neon yellow,17PA,650,810,895,20999
+wake™ pro 230  (tech package) neo mint 13pa,wake pro 230  (tech package),neo mint,13PA,650,810,895,21799
+wake 170 (sound sytem) neo mint 35pc,wake 170 (sound sytem),neo mint,35PC,650,615,895,17899
+wake 170 neo mint 35pa,wake 170,neo mint,35PA,650,615,895,15999
+rxp-x apex 300 racing green (exclusive color) 21pa,rxp-x apex 300,racing green (exclusive color),21PA,650,810,895,25999
+rxt®-x300 (tech package) triple black (premium color) 10pc,rxt®-x300 (tech package),triple black (premium color),10PC,650,810,895,23399
+rxt®-x300 (tech package) millenium yellow 10pa,rxt®-x300 (tech package),millenium yellow,10PA,650,810,895,22999
+rxp®-x 300 (tech package) triple black (premium color) 21pe,rxp®-x 300 (tech package),triple black (premium color),21PE,650,810,895,22499
+rxp®-x 300 (tech package) millenium yellow 21pj,rxp®-x 300 (tech package),millenium yellow,21PJ,650,810,895,22099
+rxp®-x 300 triple black (premium color) 21pc,rxp®-x 300,triple black (premium color),21PC,650,810,895,20599
+rxp®-x 300 millenium yellow 21pg,rxp®-x 300,millenium yellow,21PG,650,810,895,20199
+gtr 230 (sound system) millenium yellow 36pc,gtr 230 (sound system),millenium yellow,36PC,650,810,895,17699
+gtr 230 millenium yellow 36pa,gtr 230,millenium yellow,36PA,650,810,895,16499
+gtx limited 300 (tech package) metallic sage  (premium color) 14pa,gtx limited 300 (tech package),metallic sage  (premium color),14PA,650,810,895,23999
+gtx limited 300 (tech package) blue abyss 14pc,gtx limited 300 (tech package),blue abyss,14PC,650,810,895,23599
+gtx 300 (sound system) eclipse black and orange crush 12pf,gtx 300 (sound system),eclipse black and orange crush,12PF,650,810,895,21899
+gtx 300 eclipse black and orange crush 12pe,gtx 300,eclipse black and orange crush,12PE,650,810,895,20699
+gtx 230 (sound system) eclipse black and orange crush 12pc,gtx 230 (sound system),eclipse black and orange crush,12PC,650,810,895,20199
+gtx 230 eclipse black and orange crush 12pa,gtx 230,eclipse black and orange crush,12PA,650,810,895,18299
+gtx 170  (sound system) eclipse black and orange crush 11pc,gtx 170  (sound system),eclipse black and orange crush,11PC,650,810,895,19199
+gtx 170 eclipse black and orange crush 11pa,gtx 170,eclipse black and orange crush,11PA,650,810,895,17299
+gti se 170  (sound system) ice metal and neo mint 30pg,gti se 170  (sound system),ice metal and neo mint,30PG,650,615,895,16999
+gti se 170  (sound system) coral blast and eclipse black 30pe,gti se 170  (sound system),coral blast and eclipse black,30PE,650,615,895,16999
+gti se 170 ice metal and neo mintl 30pc,gti se 170,ice metal and neo mintl,30PC,650,615,895,15099
+gti se 170 coral blast and eclipse black 30pa,gti se 170,coral blast and eclipse black,30PA,650,615,895,15099
+gti se 130 (sound system) ice metal and neo mint 29pg,gti se 130 (sound system),ice metal and neo mint,29PG,650,615,895,16199
+gti se 130 (sound system) coral blast and eclipse black 29pe,gti se 130 (sound system),coral blast and eclipse black,29PE,650,615,895,16199
+gti se 130 ice metal and neo mint 29pc,gti se 130,ice metal and neo mint,29PC,650,615,895,14299
+gti se 130 coral blast and eclipse black 29pa,gti se 130,coral blast and eclipse black,29PA,650,615,895,14299
+gti white and reef blue 38pa,gti,white and reef blue,38PA,650,615,895,13299
+gtx 130 pro with ibr white & reef blue 25pa,gtx 130 pro with ibr,white & reef blue,25PA,650,810,895,16099
+gtx 130 pro white & reef blue 25pc,gtx 130 pro,white & reef blue,25PC,650,810,895,14699
+spark 2up base manta green and white 61pa,spark 2up base,manta green and white,61PA,650,615,895,7299
+spark 2up ibr & convenience package manta green and white 64pd,spark 2up ibr& convenience package,manta green and white,64PD,650,615,895,9599
+spark 2uptrixx dazzling blue 65pc,spark 2uptrixx,dazzling blue,65PC,650,615,895,10199
+spark 2uptrixx dazzling blue (sound system) 65pf,spark 2uptrixx,dazzling blue (sound system),65PF,650,615,895,10899
+spark 2uptrixx manta green 65pa,spark 2uptrixx,manta green,65PA,650,615,895,10199
+spark 2uptrixx manta green (sound system) 65pe,spark 2uptrixx,manta green (sound system),65PE,650,615,895,10899
+spark 3up base manta green and white 62pc,spark 3up base,manta green and white,62PC,650,615,895,9099
+spark 3up ibr & convenience package manta green and white 63pd,spark 3up ibr & convenience package,manta green and white,63PD,650,615,895,10299
+spark 3up ibr & convenience package plus manta green and white (sound system) 63pf,spark 3up ibr & convenience package plus,manta green and white (sound system),63PF,650,615,895,10999
+spark 3up trixx dazzling blue 66pc,spark 3up trixx,dazzling blue,66PC,650,615,895,10899
+spark 3up trixx dazzling blue  (sound system) 66pf,spark 3up trixx,dazzling blue  (sound system),66PF,650,615,895,11599
+spark 3up trixx manta green 66pa,spark 3up trixx,manta green,66PA,650,615,895,10899
+spark 3up trixx manta green (sound system) 66pe,spark 3up trixx,manta green (sound system),66PE,650,615,895,11599
+switch sport 21' 230hp neon yellow (new catalyst) 51pk,switch sport 21' 230hp,neon yellow (new catalyst),51PK,2100,2100,1495,51399
+switch sport 21' 230hp neon yellow 48pc,switch sport 21' 230hp,neon yellow,48PC,2100,2100,1495,51399
+switch sport 21' 230hp lava red (new catalyst) 51pm,switch sport 21' 230hp,lava red (new catalyst),51PM,2100,2100,1495,51399
+switch sport 21' 230hp lava red 48pd,switch sport 21' 230hp,lava red,48PD,2100,2100,1495,51399
+switch sport 21' 230hp carribean blue (new catalyst) 51ph,switch sport 21' 230hp,carribean blue (new catalyst),51PH,2100,2100,1495,51399
+switch sport 21' 230hp carribean blue 48pb,switch sport 21' 230hp,carribean blue,48PB,2100,2100,1495,51399
+switch sport 21' 230hp neon yellow (new catalyst) 51pj,switch sport 21' 230hp,neon yellow (new catalyst),51PJ,2100,2100,1495,50499
+switch sport 21' 230hp neon yellow 47pr,switch sport 21' 230hp,neon yellow,47PR,2100,2100,1495,50499
+switch sport 21' 230hp lava red (new catalyst) 51pl,switch sport 21' 230hp,lava red (new catalyst),51PL,2100,2100,1495,50499
+switch sport 21' 230hp lava red 47pt,switch sport 21' 230hp,lava red,47PT,2100,2100,1495,50499
+switch sport 21' 230hp carribean blue (new catalyst) 51pg,switch sport 21' 230hp,carribean blue (new catalyst),51PG,2100,2100,1495,50499
+switch sport 21' 230hp carribean blue 47pp,switch sport 21' 230hp,carribean blue,47PP,2100,2100,1495,50499
+switch sport 18' 230hp neon yellow (new catalyst) 51pd,switch sport 18' 230hp,neon yellow (new catalyst),51PD,2100,2100,1495,47699
+switch sport 18' 230hp neon yellow 47pz,switch sport 18' 230hp,neon yellow,47PZ,2100,2100,1495,47699
+switch sport 18' 230hp lava red (new catalyst) 51pf,switch sport 18' 230hp,lava red (new catalyst),51PF,2100,2100,1495,47699
+switch sport 18' 230hp lava red 48pa,switch sport 18' 230hp,lava red,48PA,2100,2100,1495,47699
+switch sport 18' 230hp carribean blue (new catalyst) 51pb,switch sport 18' 230hp,carribean blue (new catalyst),51PB,2100,2100,1495,47699
+switch sport 18' 230hp carribean blue 47py,switch sport 18' 230hp,carribean blue,47PY,2100,2100,1495,47699
+switch sport 18' 230hp neon yellow (new catalyst) 51pc,switch sport 18' 230hp,neon yellow (new catalyst),51PC,2100,2100,1495,46899
+switch sport 18' 230hp neon yellow 47pk,switch sport 18' 230hp,neon yellow,47PK,2100,2100,1495,46899
+switch sport 18' 230hp lava red (new catalyst) 51pe,switch sport 18' 230hp,lava red (new catalyst),51PE,2100,2100,1495,46899
+switch sport 18' 230hp lava red 47pm,switch sport 18' 230hp,lava red,47PM,2100,2100,1495,46899
+switch sport 18' 230hp carribean blue (new catalyst) 51pa,switch sport 18' 230hp,carribean blue (new catalyst),51PA,2100,2100,1495,46899
+switch sport 18' 230hp carribean blue 47ph,switch sport 18' 230hp,carribean blue,47PH,2100,2100,1495,46899
+switch sport compact 170hp neon yellow 48pw,switch sport compact 170hp,neon yellow,48PW,2100,2100,1495,34899
+switch sport compact 170hp lava red 47px,switch sport compact 170hp,lava red,47PX,2100,2100,1495,34899
+switch sport compact 170hp carribean blue 47pv,switch sport compact 170hp,carribean blue,47PV,2100,2100,1495,34899
+switch sport compact 170hp neon yellow 47pc,switch sport compact 170hp,neon yellow,47PC,2100,2100,1495,34299
+switch sport compact 170hp lava red 47pe,switch sport compact 170hp,lava red,47PE,2100,2100,1495,34299
+switch sport compact 170hp carribean blue 47pa,switch sport compact 170hp,carribean blue,47PA,2100,2100,1495,34299
+switch cruise. 21' 230hp neon yellow (new catalyst) 50pk,switch cruise. 21' 230hp,neon yellow (new catalyst),50PK,2100,2100,1495,52399
+switch cruise. 21' 230hp neon yellow 45pv,switch cruise. 21' 230hp,neon yellow,45PV,2100,2100,1495,52399
+switch cruise. 21' 230hp lava red (new catalyst) 50pm,switch cruise. 21' 230hp,lava red (new catalyst),50PM,2100,2100,1495,52399
+switch cruise. 21' 230hp lava red 45pw,switch cruise. 21' 230hp,lava red,45PW,2100,2100,1495,52399
+switch cruise. 21' 230hp carribean blue (new catalyst) 50ph,switch cruise. 21' 230hp,carribean blue (new catalyst),50PH,2100,2100,1495,52399
+switch cruise. 21' 230hp carribean blue 45pu,switch cruise. 21' 230hp,carribean blue,45PU,2100,2100,1495,52399
+switch cruise. 21' 230hp neon yellow (new catalyst) 50pj,switch cruise. 21' 230hp,neon yellow (new catalyst),50PJ,2100,2100,1495,51499
+switch cruise. 21' 230hp neon yellow 46pr,switch cruise. 21' 230hp,neon yellow,46PR,2100,2100,1495,51499
+switch cruise. 21' 230hp lava red (new catalyst) 50pl,switch cruise. 21' 230hp,lava red (new catalyst),50PL,2100,2100,1495,51499
+switch cruise. 21' 230hp lava red 46pt,switch cruise. 21' 230hp,lava red,46PT,2100,2100,1495,51499
+switch cruise. 21' 230hp carribean blue (new catalyst) 50pg,switch cruise. 21' 230hp,carribean blue (new catalyst),50PG,2100,2100,1495,51499
+switch cruise. 21' 230hp carribean blue 46pp,switch cruise. 21' 230hp,carribean blue,46PP,2100,2100,1495,51499
+switch cruise 21' 170hp neon yellow 45ps,switch cruise 21' 170hp,neon yellow,45PS,2100,2100,1495,49399
+switch cruise 21' 170hp lava red 45pt,switch cruise 21' 170hp,lava red,45PT,2100,2100,1495,49399
+switch cruise 21' 170hp carribean blue 45pr,switch cruise 21' 170hp,carribean blue,45PR,2100,2100,1495,49399
+switch cruise 21' 170hp neon yellow 46pm,switch cruise 21' 170hp,neon yellow,46PM,2100,2100,1495,48499
+switch cruise 21' 170hp lava red 46pn,switch cruise 21' 170hp,lava red,46PN,2100,2100,1495,48499
+switch cruise 21' 170hp carribean blue 46pl,switch cruise 21' 170hp,carribean blue,46PL,2100,2100,1495,48499
+switch cruise 18' 230hp neon yellow (new catalyst) 50pd,switch cruise 18' 230hp,neon yellow (new catalyst),50PD,2100,2100,1495,49299
+switch cruise 18' 230hp neon yellow 45pm,switch cruise 18' 230hp,neon yellow,45PM,2100,2100,1495,49299
+switch cruise 18' 230hp lava red (new catalyst) 50pf,switch cruise 18' 230hp,lava red (new catalyst),50PF,2100,2100,1495,49299
+switch cruise 18' 230hp lava red 45pq,switch cruise 18' 230hp,lava red,45PQ,2100,2100,1495,49299
+switch cruise 18' 230hp carribean blue (new catalyst) 50pb,switch cruise 18' 230hp,carribean blue (new catalyst),50PB,2100,2100,1495,49299
+switch cruise 18' 230hp carribean blue 45pj,switch cruise 18' 230hp,carribean blue,45PJ,2100,2100,1495,49299
+switch cruise 18' 230hp neon yellow (new catalyst) 50pc,switch cruise 18' 230hp,neon yellow (new catalyst),50PC,2100,2100,1495,48499
+switch cruise 18' 230hp neon yellow 45pl,switch cruise 18' 230hp,neon yellow,45PL,2100,2100,1495,48499
+switch cruise 18' 230hp lava red (new catalyst) 50pe,switch cruise 18' 230hp,lava red (new catalyst),50PE,2100,2100,1495,48499
+switch cruise 18' 230hp lava red 45pp,switch cruise 18' 230hp,lava red,45PP,2100,2100,1495,48499
+switch cruise 18' 230hp carribean blue (new catalyst) 50pa,switch cruise 18' 230hp,carribean blue (new catalyst),50PA,2100,2100,1495,48499
+switch cruise 18' 230hp carribean blue 45ph,switch cruise 18' 230hp,carribean blue,45PH,2100,2100,1495,48499
+switch cruise 18' 170hp neon yellow 46pz,switch cruise 18' 170hp,neon yellow,46PZ,2100,2100,1495,45599
+switch cruise 18' 170hp lava red 45pg,switch cruise 18' 170hp,lava red,45PG,2100,2100,1495,45599
+switch cruise 18' 170hp carribean blue 46py,switch cruise 18' 170hp,carribean blue,46PY,2100,2100,1495,45599
+switch cruise 18' 170hp neon yellow 46pf,switch cruise 18' 170hp,neon yellow,46PF,2100,2100,1495,44799
+switch cruise 18' 170hp lava red 46pj,switch cruise 18' 170hp,lava red,46PJ,2100,2100,1495,44799
+switch cruise 18' 170hp carribean blue 46pd,switch cruise 18' 170hp,carribean blue,46PD,2100,2100,1495,44799
+switch cruise 18' 130hp neon yellow 46pw,switch cruise 18' 130hp,neon yellow,46PW,2100,2100,1495,39799
+switch cruise 18' 130hp lava red 46px,switch cruise 18' 130hp,lava red,46PX,2100,2100,1495,39799
+switch cruise 18' 130hp carribean blue 46pv,switch cruise 18' 130hp,carribean blue,46PV,2100,2100,1495,39799
+switch cruise 18' 130hp neon yellow 46pb,switch cruise 18' 130hp,neon yellow,46PB,2100,2100,1495,38999
+switch cruise 18' 130hp lava red 46pc,switch cruise 18' 130hp,lava red,46PC,2100,2100,1495,38999
+switch cruise 18' 130hp carribean blue 46pa,switch cruise 18' 130hp,carribean blue,46PA,2100,2100,1495,38999
+switch 16' 130hp carribean blue 41pp,switch 16' 130hp,carribean blue,41PP,2100,2100,1495,33099
+switch 16' 130hp  41pk,switch 16' 130hp,,41PK,2100,2100,1495,32299
+switch compact 130hp carribean blue 41pn,switch compact 130hp,carribean blue,41PN,1900,2100,1495,27899
+switch compact 130hp  41pj,switch compact 130hp,,41PJ,1900,2100,1495,27299
+switch 19' 170hp carribean blue 41pq,switch 19' 170hp,carribean blue,41PQ,2100,2100,1495,43299
+switch 19' 170hp  41pl,switch 19' 170hp,,41PL,2100,2100,1495,42399
+mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25 e.s. black udra,"mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25"" e.s.",black,UDRA,640,,695,18949
+mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25 e.s. catalyst grey udrb,"mxz adr wand blizzard pkg 129 850 e-tec ice ripper xt 1.25"" e.s.",catalyst grey,UDRB,640,,695,19249
+mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s. black udrc,"mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25"" e.s.",black,UDRC,640,,695,19249
+mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25 e.s. catalyst grey udrd,"mxz adr wand blizzard pkg 137 850 e-tec ice ripper xt 1.25"" e.s.",catalyst grey,UDRD,640,,695,19549
+mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. black uera,"mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25"" e.s.",black,UERA,640,,695,17499
+mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerb,"mxz adr wand blizzard pkg 129 600r e-tec ice ripper xt 1.25"" e.s.",catalyst grey,UERB,640,,695,17799
+mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s. black uerc,"mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25"" e.s.",black,UERC,640,,695,17799
+mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25 e.s. catalyst grey uerd,"mxz adr wand blizzard pkg 137 600r e-tec ice ripper xt 1.25"" e.s.",catalyst grey,UERD,640,,695,18099
+mxz adrenaline 129 850 e-tec ripsaw 1.25 e.s. black bdrf,"mxz adrenaline 129 850 e-tec ripsaw 1.25"" e.s.",black,BDRF,640,,695,16999
+mxz adrenaline 129 850 e-tec ripsaw 1.25 e.s. neo yellow bdre,"mxz adrenaline 129 850 e-tec ripsaw 1.25"" e.s.",neo yellow,BDRE,640,,695,17299
+mxz adrenaline 137 850 e-tec ripsaw 1.25 e.s. black bdrh,"mxz adrenaline 137 850 e-tec ripsaw 1.25"" e.s.",black,BDRH,640,,695,17299
+mxz adrenaline 137 850 e-tec ripsaw 1.25 e.s. neo yellow bdrg,"mxz adrenaline 137 850 e-tec ripsaw 1.25"" e.s.",neo yellow,BDRG,640,,695,17599
+mxz adrenaline 129 600r e-tec ripsaw 1.25 e.s. black bdrb,"mxz adrenaline 129 600r e-tec ripsaw 1.25"" e.s.",black,BDRB,640,,695,15549
+mxz adrenaline 129 600r e-tec ripsaw 1.25 e.s. neo yellow bdra,"mxz adrenaline 129 600r e-tec ripsaw 1.25"" e.s.",neo yellow,BDRA,640,,695,15849
+mxz adrenaline 137 600r e-tec ripsaw 1.25 e.s. black bdrd,"mxz adrenaline 137 600r e-tec ripsaw 1.25"" e.s.",black,BDRD,640,,695,15849
+mxz adrenaline 137 600r e-tec ripsaw 1.25 e.s. neo yellow bdrc,"mxz adrenaline 137 600r e-tec ripsaw 1.25"" e.s.",neo yellow,BDRC,640,,695,16149
+mxz sport 129 600 efi ripsaw 1.25 e.s. neo yellow bhrc,"mxz sport 129 600 efi ripsaw 1.25"" e.s.",neo yellow,BHRC,640,,695,11249
+mxz sport 137 600 efi ripsaw 1.25 e.s. neo yellow bhrb,"mxz sport 137 600 efi ripsaw 1.25"" e.s.",neo yellow,BHRB,640,,695,11549
+mxz neo+ 600 efi (55) ripsaw 1.25 e.s. neo yellow and black bpra,"mxz neo+ 600 efi (55) ripsaw 1.25"" e.s.",neo yellow and black,BPRA,640,,695,9499
+mxz neo 600 efi (40) cobra 1.0 e.s. neo yellow and catalyst grey bbra,"mxz neo 600 efi (40) cobra 1.0"" e.s.",neo yellow and catalyst grey,BBRA,640,,695,8449
+mxz 200 neo yellow ywrb,mxz 200,neo yellow,YWRB,320,,695,6649
+mxz 120 neo yellow ywra,mxz 120,neo yellow,YWRA,320,,695,4999
+renegade adr wand enduro pkg 850 e-tec ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow urra,"renegade adr wand enduro pkg 850 e-tec ice ripper xt 1.25"" e.s. wand 10.25"" touchscreen",black and neo yellow,URRA,640,,695,20649
+renegade adr wand enduro pkg 600r e-tec ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow usra,"renegade adr wand enduro pkg 600r e-tec ice ripper xt 1.25"" e.s. wand 10.25"" touchscreen",black and neo yellow,USRA,640,,695,19049
+renegade adr wand enduro pkg 900 ace turbo r ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow dpra,"renegade adr wand enduro pkg 900 ace turbo r ice ripper xt 1.25"" e.s. wand 10.25"" touchscreen",black and neo yellow,DPRA,640,,695,22449
+renegade adr wand enduro pkg 900 ace turbo ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow drra,"renegade adr wand enduro pkg 900 ace turbo ice ripper xt 1.25"" e.s. wand 10.25"" touchscreen",black and neo yellow,DRRA,640,,695,20649
+renegade adr wand enduro pkg 900 ace ice ripper xt 1.25 e.s. wand 10.25 touchscreen black and neo yellow unra,"renegade adr wand enduro pkg 900 ace ice ripper xt 1.25"" e.s. wand 10.25"" touchscreen",black and neo yellow,UNRA,640,,695,18799
+renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s. black dtrb,"renegade adrenaline 900 ace turbo r ripsaw 1.25"" e.s.",black,DTRB,640,,695,19099
+renegade adrenaline 900 ace turbo r ripsaw 1.25 e.s. neo yellow dtra,"renegade adrenaline 900 ace turbo r ripsaw 1.25"" e.s.",neo yellow,DTRA,640,,695,19399
+renegade adrenaline 900 ace turbo ripsaw 1.25 e.s. black durb,"renegade adrenaline 900 ace turbo ripsaw 1.25"" e.s.",black,DURB,640,,695,17299
+renegade adrenaline 900 ace turbo ripsaw 1.25 e.s. neo yellow dura,"renegade adrenaline 900 ace turbo ripsaw 1.25"" e.s.",neo yellow,DURA,640,,695,17599
+renegade adrenaline 900 ace ripsaw 1.25 e.s. black mbrb,"renegade adrenaline 900 ace ripsaw 1.25"" e.s.",black,MBRB,640,,695,15449
+renegade adrenaline 900 ace ripsaw 1.25 e.s. neo yellow mbra,"renegade adrenaline 900 ace ripsaw 1.25"" e.s.",neo yellow,MBRA,640,,695,15749
+renegade sport 600 ace ripsaw 1.25 e.s. neo yellow mcra,"renegade sport 600 ace ripsaw 1.25"" e.s.",neo yellow,MCRA,640,,695,12599
+grand touring le wand luxury pkg 900 ace turbo r silent ice track ii 1.25 e.s. wand 10.25 touchscreen terra green eprb,"grand touring le wand luxury pkg 900 ace turbo r silent ice track ii 1.25"" e.s. wand 10.25"" touchscreen",terra green,EPRB,640,,695,23849
+grand touring le wand luxury pkg 900 ace turbo silent ice track ii 1.25 e.s. wand 10.25 touchscreen terra green errb,"grand touring le wand luxury pkg 900 ace turbo silent ice track ii 1.25"" e.s. wand 10.25"" touchscreen",terra green,ERRB,640,,695,21949
+grand touring le wand luxury pkg 900 ace silent ice track ii 1.25 e.s. wand 10.25 touchscreen terra green ebrb,"grand touring le wand luxury pkg 900 ace silent ice track ii 1.25"" e.s. wand 10.25"" touchscreen",terra green,EBRB,640,,695,19999
+grand touring le 900 ace turbo r silent track ii 1.25 e.s. black epra,"grand touring le 900 ace turbo r silent track ii 1.25"" e.s.",black,EPRA,640,,695,21449
+grand touring le 900 ace turbo silent track ii 1.25 e.s. black erra,"grand touring le 900 ace turbo silent track ii 1.25"" e.s.",black,ERRA,640,,695,19549
+grand touring le 900 ace silent track ii 1.25 e.s. black ebra,"grand touring le 900 ace silent track ii 1.25"" e.s.",black,EBRA,640,,695,17599
+grand touring sport 900 ace silent track ii 1.25 e.s. neo yellow eara,"grand touring sport 900 ace silent track ii 1.25"" e.s.",neo yellow,EARA,640,,695,15299
+grand touring sport 600 ace silent track ii 1.25 e.s. neo yellow etra,"grand touring sport 600 ace silent track ii 1.25"" e.s.",neo yellow,ETRA,640,,695,13849
+backcountry adrenaline 850 e-tec cobra 1.6 e.s. black ugra,"backcountry adrenaline 850 e-tec cobra 1.6"" e.s.",black,UGRA,640,,695,17399
+backcountry adrenaline 850 e-tec powdermax 2.0 e.s. black ugrb,"backcountry adrenaline 850 e-tec powdermax 2.0"" e.s.",black,UGRB,640,,695,17649
+backcountry adrenaline 850 e-tec cobra 1.6 e.s. neo yellow ugrc,"backcountry adrenaline 850 e-tec cobra 1.6"" e.s.",neo yellow,UGRC,640,,695,17699
+backcountry adrenaline 850 e-tec powdermax 2.0 e.s. neo yellow ugrd,"backcountry adrenaline 850 e-tec powdermax 2.0"" e.s.",neo yellow,UGRD,640,,695,17949
+backcountry adrenaline 600r e-tec cobra 1.6 e.s. black ujra,"backcountry adrenaline 600r e-tec cobra 1.6"" e.s.",black,UJRA,640,,695,16049
+backcountry adrenaline 600r e-tec powdermax 2.0 e.s. black ujrb,"backcountry adrenaline 600r e-tec powdermax 2.0"" e.s.",black,UJRB,640,,695,16299
+backcountry adrenaline 600r e-tec cobra 1.6 e.s. neo yellow ujrc,"backcountry adrenaline 600r e-tec cobra 1.6"" e.s.",neo yellow,UJRC,640,,695,16349
+backcountry adrenaline 600r e-tec powdermax 2.0 e.s. neo yellow ujrd,"backcountry adrenaline 600r e-tec powdermax 2.0"" e.s.",neo yellow,UJRD,640,,695,16599
+backcountry sport 600 efi cobra 1.6 e.s. neo yellow ubra,"backcountry sport 600 efi cobra 1.6"" e.s.",neo yellow,UBRA,640,,695,11849
+backcountry sport 600 efi powdermax 2.0 e.s. neo yellow ubrb,"backcountry sport 600 efi powdermax 2.0"" e.s.",neo yellow,UBRB,640,,695,12099
+expedition le 20 900 ace turbo r silent cobra 1.5 e.s. black awra,"expedition le 20"" 900 ace turbo r silent cobra 1.5"" e.s.",black,AWRA,640,,695,20399
+expedition le 20 900 ace turbo r silent cobra 1.5 e.s. arctic desert awrb,"expedition le 20"" 900 ace turbo r silent cobra 1.5"" e.s.",arctic desert,AWRB,640,,695,20699
+expedition le 20 900 ace turbo silent cobra 1.5 e.s. black acra,"expedition le 20"" 900 ace turbo silent cobra 1.5"" e.s.",black,ACRA,640,,695,18449
+expedition le 20 900 ace turbo silent cobra 1.5 e.s. arctic desert acrb,"expedition le 20"" 900 ace turbo silent cobra 1.5"" e.s.",arctic desert,ACRB,640,,695,18749
+expedition le 20 900 ace silent cobra 1.5 e.s. black aara,"expedition le 20"" 900 ace silent cobra 1.5"" e.s.",black,AARA,640,,695,16699
+expedition le 20 900 ace silent cobra 1.5 e.s. (same as aara) black aard,"expedition le 20"" 900 ace silent cobra 1.5"" e.s. (same as aara)",black,AARD,640,,695,16699
+expedition le 20 900 ace silent cobra 1.5 e.s. arctic desert aarb,"expedition le 20"" 900 ace silent cobra 1.5"" e.s.",arctic desert,AARB,640,,695,16999
+expedition le 20 600r e-tec silent cobra 1.5 e.s. black abra,"expedition le 20"" 600r e-tec silent cobra 1.5"" e.s.",black,ABRA,640,,695,17349
+expedition le 20 600r e-tec silent cobra 1.5 e.s. arctic desert abrb,"expedition le 20"" 600r e-tec silent cobra 1.5"" e.s.",arctic desert,ABRB,640,,695,17649
+expedition le 24 900 ace turbo r silent cobra 1.5 e.s. black axra,"expedition le 24"" 900 ace turbo r silent cobra 1.5"" e.s.",black,AXRA,640,,695,21349
+expedition le 24 900 ace turbo r silent cobra 1.5 e.s. arctic desert axrb,"expedition le 24"" 900 ace turbo r silent cobra 1.5"" e.s.",arctic desert,AXRB,640,,695,21649
+expedition le 24 900 ace turbo silent cobra 1.5 e.s. black asra,"expedition le 24"" 900 ace turbo silent cobra 1.5"" e.s.",black,ASRA,640,,695,19399
+expedition le 24 900 ace turbo silent cobra 1.5 e.s. arctic desert asrb,"expedition le 24"" 900 ace turbo silent cobra 1.5"" e.s.",arctic desert,ASRB,640,,695,19699
+expedition le 24 900 ace silent cobra 1.5 e.s. black arra,"expedition le 24"" 900 ace silent cobra 1.5"" e.s.",black,ARRA,640,,695,17649
+expedition le 24 900 ace silent cobra 1.5 e.s. (same as arra) black arrd,"expedition le 24"" 900 ace silent cobra 1.5"" e.s. (same as arra)",black,ARRD,640,,695,17649
+expedition le 24 900 ace silent cobra 1.5 e.s. arctic desert arrb,"expedition le 24"" 900 ace silent cobra 1.5"" e.s.",arctic desert,ARRB,640,,695,17949
+expedition le 24 600r e-tec silent cobra 1.5 e.s. black amra,"expedition le 24"" 600r e-tec silent cobra 1.5"" e.s.",black,AMRA,640,,695,18299
+expedition le 24 600r e-tec silent cobra 1.5 e.s. arctic desert amrb,"expedition le 24"" 600r e-tec silent cobra 1.5"" e.s.",arctic desert,AMRB,640,,695,18599
+expedition xtreme 900 ace turbo r cobra 1.8 e.s. black aprd,"expedition xtreme 900 ace turbo r cobra 1.8"" e.s.",black,APRD,640,,695,20849
+expedition xtreme 900 ace turbo r cobra 1.8 e.s. neo mint aprb,"expedition xtreme 900 ace turbo r cobra 1.8"" e.s.",neo mint,APRB,640,,695,21149
+expedition xtreme 850 e-tec cobra 1.8 e.s. black adrd,"expedition xtreme 850 e-tec cobra 1.8"" e.s.",black,ADRD,640,,695,19149
+expedition xtreme 850 e-tec cobra 1.8 e.s. neo mint adrb,"expedition xtreme 850 e-tec cobra 1.8"" e.s.",neo mint,ADRB,640,,695,19449
+expedition sport 900 ace charger 1.5 e.s. neo yellow kdra,"expedition sport 900 ace charger 1.5"" e.s.",neo yellow,KDRA,640,,695,15099
+expedition sport 600 ace charger 1.5 e.s. neo yellow kcra,"expedition sport 600 ace charger 1.5"" e.s.",neo yellow,KCRA,640,,695,13499
+expedition sport 600 efi charger 1.5 e.s. neo yellow kara,"expedition sport 600 efi charger 1.5"" e.s.",neo yellow,KARA,640,,695,11899
+skandic le 20 900 ace silent cobra 1.5 e.s. black ahra,"skandic le 20"" 900 ace silent cobra 1.5"" e.s.",black,AHRA,640,,695,16449
+skandic le 20 900 ace silent cobra 1.5 e.s. (same as ahra) black ahrd,"skandic le 20"" 900 ace silent cobra 1.5"" e.s. (same as ahra)",black,AHRD,640,,695,16449
+skandic le 20 900 ace silent cobra 1.5 e.s. arctic desert ahrb,"skandic le 20"" 900 ace silent cobra 1.5"" e.s.",arctic desert,AHRB,640,,695,16749
+skandic le 20 600 ace silent cobra 1.5 e.s. black akra,"skandic le 20"" 600 ace silent cobra 1.5"" e.s.",black,AKRA,640,,695,15299
+skandic le 20 600 ace silent cobra 1.5 e.s. arctic desert akrb,"skandic le 20"" 600 ace silent cobra 1.5"" e.s.",arctic desert,AKRB,640,,695,15599
+skandic le 20 600r e-tec silent cobra 1.5 e.s. black alra,"skandic le 20"" 600r e-tec silent cobra 1.5"" e.s.",black,ALRA,640,,695,16999
+skandic le 20 600r e-tec silent cobra 1.5 e.s. arctic desert alrb,"skandic le 20"" 600r e-tec silent cobra 1.5"" e.s.",arctic desert,ALRB,640,,695,17299
+skandic le 20 600 efi silent cobra 1.5 e.s. black atrd,"skandic le 20"" 600 efi silent cobra 1.5"" e.s.",black,ATRD,640,,695,13649
+skandic le 20 600 efi silent cobra 1.5 e.s. arctic desert atrb,"skandic le 20"" 600 efi silent cobra 1.5"" e.s.",arctic desert,ATRB,640,,695,13949
+skandic le 24 900 ace silent cobra 1.5 e.s. black anra,"skandic le 24"" 900 ace silent cobra 1.5"" e.s.",black,ANRA,640,,695,17399
+skandic le 24 900 ace silent cobra 1.5 e.s. (same as anra) black anrh,"skandic le 24"" 900 ace silent cobra 1.5"" e.s. (same as anra)",black,ANRH,640,,695,17399
+skandic le 24 900 ace silent cobra 1.5 e.s. arctic desert anrb,"skandic le 24"" 900 ace silent cobra 1.5"" e.s.",arctic desert,ANRB,640,,695,17699
+skandic le 24 600r e-tec silent cobra 1.5 e.s. black aura,"skandic le 24"" 600r e-tec silent cobra 1.5"" e.s.",black,AURA,640,,695,17949
+skandic le 24 600r e-tec silent cobra 1.5 e.s. arctic desert aurb,"skandic le 24"" 600r e-tec silent cobra 1.5"" e.s.",arctic desert,AURB,640,,695,18249
+skandic sport 600 efi utility 1.25 e.s. neo yellow ajra,"skandic sport 600 efi utility 1.25"" e.s.",neo yellow,AJRA,640,,695,12349
+tundra le 600 ace charger 1.5 e.s. black gnra,"tundra le 600 ace charger 1.5"" e.s.",black,GNRA,640,,695,13749
+tundra le 600 efi charger 1.5 e.s. black gdra,"tundra le 600 efi charger 1.5"" e.s.",black,GDRA,640,,695,11649
+tundra le 600 efi charger 1.5 e.s. (same as gdra) black gdrc,"tundra le 600 efi charger 1.5"" e.s. (same as gdra)",black,GDRC,640,,695,11649
+tundra sport 600 ace cobra 1.6 e.s. neo yellow gmra,"tundra sport 600 ace cobra 1.6"" e.s.",neo yellow,GMRA,640,,695,13099
+tundra sport 600 efi cobra 1.6 e.s. neo yellow gkra,"tundra sport 600 efi cobra 1.6"" e.s.",neo yellow,GKRA,640,,695,10949
+"summit - high-altidude calibration only, except neoandneo+","summit - high-altidude calibration only, except neoandneo+",,,,,,
+summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5 shot arctic desert ckrd,"summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5"" shot",arctic desert,CKRD,640,,695,17349
+summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5 shot timeless black ckrc,"summit adr wand edge pkg 146 850 e-tec powdermax flexedge 2.5"" shot",timeless black,CKRC,640,,695,17649
+summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot arctic desert cgrc,"summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5"" shot",arctic desert,CGRC,640,,695,17749
+summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert cgrd,"summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0"" shot",arctic desert,CGRD,640,,695,18149
+summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cgra,"summit adr wand edge pkg 154 850 e-tec powdermax light flexedge 2.5"" shot",timeless black,CGRA,640,,695,18049
+summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0 shot timeless black cgrb,"summit adr wand edge pkg 154 850 e-tec powdermax x-light flexedge 3.0"" shot",timeless black,CGRB,640,,695,18449
+summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot arctic desert chrb,"summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0"" shot",arctic desert,CHRB,640,,695,18649
+summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0 shot timeless black chra,"summit adr wand edge pkg 165 850 e-tec powdermax x-light flexedge 3.0"" shot",timeless black,CHRA,640,,695,18949
+summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5 shot arctic desert ckrb,"summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5"" shot",arctic desert,CKRB,640,,695,15899
+summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5 shot timeless black ckra,"summit adr wand edge pkg 146 600r e-tec powdermax flexedge 2.5"" shot",timeless black,CKRA,640,,695,16199
+summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot arctic desert cgrh,"summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5"" shot",arctic desert,CGRH,640,,695,16299
+summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cgrg,"summit adr wand edge pkg 154 600r e-tec powdermax light flexedge 2.5"" shot",timeless black,CGRG,640,,695,16599
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrf,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" m.s.",catalyst grey,CDRF,640,,695,16249
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. catalyst grey cdre,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" e.s.",catalyst grey,CDRE,640,,695,16749
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot catalyst grey cdrg,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" shot",catalyst grey,CDRG,640,,695,16999
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 e.s. timeless black cdrh,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" e.s.",timeless black,CDRH,640,,695,17049
+summit adrenaline 146 850 e-tec powdermax flexedge 2.5 shot timeless black cdrj,"summit adrenaline 146 850 e-tec powdermax flexedge 2.5"" shot",timeless black,CDRJ,640,,695,17299
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerh,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" m.s.",catalyst grey,CERH,640,,695,16499
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerg,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" e.s.",catalyst grey,CERG,640,,695,16999
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot catalyst grey cerf,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" shot",catalyst grey,CERF,640,,695,17249
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 e.s. timeless black cerj,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" e.s.",timeless black,CERJ,640,,695,17299
+summit adrenaline 154 850 e-tec powdermax light flexedge 2.5 shot timeless black cerk,"summit adrenaline 154 850 e-tec powdermax light flexedge 2.5"" shot",timeless black,CERK,640,,695,17549
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 m.s. catalyst grey cdrb,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" m.s.",catalyst grey,CDRB,640,,695,14799
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. catalyst grey cdra,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" e.s.",catalyst grey,CDRA,640,,695,15299
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot catalyst grey cdrk,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" shot",catalyst grey,CDRK,640,,695,15549
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 e.s. timeless black cdrc,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" e.s.",timeless black,CDRC,640,,695,15599
+summit adrenaline 146 600r e-tec powdermax flexedge 2.5 shot timeless black cdrd,"summit adrenaline 146 600r e-tec powdermax flexedge 2.5"" shot",timeless black,CDRD,640,,695,15849
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 m.s. catalyst grey cerd,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" m.s.",catalyst grey,CERD,640,,695,15049
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. catalyst grey cerc,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" e.s.",catalyst grey,CERC,640,,695,15549
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot catalyst grey cere,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" shot",catalyst grey,CERE,640,,695,15799
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 e.s. timeless black cera,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" e.s.",timeless black,CERA,640,,695,15849
+summit adrenaline 154 600r e-tec powdermax light flexedge 2.5 shot timeless black cerb,"summit adrenaline 154 600r e-tec powdermax light flexedge 2.5"" shot",timeless black,CERB,640,,695,16099
+summit neo+ 600 efi (55) hurricane flexedge 1.75 e.s. lac neo yellow and black tvra,"summit neo+ 600 efi (55) hurricane flexedge 1.75"" e.s. lac",neo yellow and black,TVRA,640,,695,10199
+summit neo 600 efi (40) cobra flexedge 1.6 e.s. lac neo yellow and catalyst grey tura,"summit neo 600 efi (40) cobra flexedge 1.6"" e.s. lac",neo yellow and catalyst grey,TURA,640,,695,9149
+suzuki,suzuki,,,Freight Charge,Surcharge,pdi,M.S.R.P.
+hayabusa gsx1300rrqm3,hayabusa gsx1300rrqm3,,,350,250,295,22799
+gsx-rioooam3,gsx-rioooam3,,,350,250,295,20599
+gsx-rioooram3,gsx-rioooram3,,,350,250,295,23999
+gsx-k1000rzam3,gsx-k1000rzam3,,,350,250,295,24099
+gsx-r750m3,gsx-r750m3,,,350,250,295,13899
+gsx-r750zm3,gsx-r750zm3,,,350,250,295,13999
+gsx-r600m3,gsx-r600m3,,,350,250,295,12899
+gsx-r600zm3,gsx-r600zm3,,,350,250,295,12999
+katana gsx-siooosrqm3,katana gsx-siooosrqm3,,,350,250,295,17799
+gsx-s1000m3,gsx-siooom3,,,350,250,295,14699
+gsx-s1000gtm3,gsx-siooogtm3,,,350,250,295,16099
+gsx-s1000gtam3 touring kit,gsx-siooogtam3 touring kit,,,350,250,295,17699
+gsx-s750am3,gsx-s750am3,,,350,250,295,10599
+gsx-s750zam3,gsx-s750zam3,,,350,250,295,10799
+gsx-8sm3,gsx-8sm3,,,350,250,295,10749
+sv650am3,sv650am3,,,350,250,295,8999
+sv650xam3,sv650xam3,,,350,250,295,9299
+v-strom 1050 dl1050rrm3,v-strom 1050 dl1050rrm3,,,350,250,295,17899
+v-strom 1050 de dl1050rjm3,v-strom 1050 de dl1050rjm3,,,350,250,295,18999
+v-strom 1050de dl1050rjm3 adventure kit*,v-strom 1050de dl1050rjm3 adventure kit*,,,350,250,295,20299
+v-strom 650,v-strom 650,,,350,250,295,10699
+v-strom 650xt,v-strom 650xt,,,350,250,295,11499
+v-strom adventure kit,v-strom adventure kit,,,350,250,295,12999
+v-strom dl800de,v-strom dl800de,,,350,250,295,13299
+dr650sem3,dr650sem3,,,350,200,295,7199
+dr-z400smm3 supermoto,dr-z400smm3 supermoto,,,350,200,295,8499
+dr-z400sm3,dr-z400sm3,,,350,200,295,8099
+boulevard m109r b.o.s.s. vzr1800bzm3,boulevard m109r b.o.s.s. vzr1800bzm3,,,350,250,295,17599
+boulevard c50t vl800tm3,boulevard c50t vl800tm3,,,350,250,295,12799
+boulevard c50 vl800m3,boulevard c50 vl800m3,,,350,250,295,12199
+burgman 400 an400am3,burgman 400 an400am3,,,350,250,295,9899
+dr-z125lm3,dr-z125lm3,,,250,50,295,4199
+dr-z125m3,dr-z125m3,,,250,50,295,3899
+dr-z50m3,dr-z50m3,,,250,50,295,3099
+rm-z450m3,rm-z450m3,,,350,100,295,11599
+rm-z250m3,rm-z250m3,,,350,100,295,10699
+rm85m3t,rm85m3t,,,350,200,295,5449
+spyder,color,model number,,FREIGHT,COMMODITY SURCHARGE,,MSRP
+f3 (se6) steel black metallic 000e5pa00,f3 (se6),steel black metallic,0E5PA,850,1000,549,23099
+f3-s special series (se6) monolith black satin 000e6pa00,f3-s special series (se6),monolith black satin,0E6PA,850,1000,549,26299
+f3-s special series (se6) manta green 000e6pf00,f3-s special series (se6),manta green,0E6PF,850,1000,549,26299
+f3-t (se6) pearl white 000h6pa00,f3-t (se6),pearl white,0H6PA,850,1000,549,28599
+f3-t (se6) petrol metallic 000h6pb00,f3-t (se6),petrol metallic,0H6PB,850,1000,549,28599
+f3 limited (se6) monolith black satin and dark 000h8pa00,f3 limited (se6),monolith black satin and dark,0H8PA,850,1000,549,32499
+f3 limited (se6) petrol metallic and dark 000h8pf00,f3 limited (se6),petrol metallic and dark,0H8PF,850,1000,549,32499
+f3 limited (se6) steel black metallic and platinum 000h9pa00,f3 limited (se6),steel black metallic and platinum,0H9PA,850,1000,549,34399
+f3 limited (se6) plasma red and platinum 000h9pb00,f3 limited (se6),plasma red and platinum,0H9PB,850,1000,549,34399
+f3 limited special series (se6) mineral blue and carbon black 000h7pa00,f3 limited special series (se6),mineral blue and carbon black,0H7PA,850,1000,549,35599
+rt (se6) petrol metallic 000b2pb00,rt (se6),petrol metallic,0B2PB,850,1000,549,29999
+rt (se6) hyper silver 000b2pa00,rt (se6),hyper silver,0B2PA,850,1000,549,29999
+rt limited (se6) petrol metallic and dark 000g1pk00,rt limited (se6),petrol metallic and dark,0G1PK,850,1000,549,34499
+rt limited (se6) deep marsala metallic and dark 000g1ph00,rt limited (se6),deep marsala metallic and dark,0G1PH,850,1000,549,34499
+rt limited (se6) carbon black and dark 000g1pd00,rt limited (se6),carbon black and dark,0G1PD,850,1000,549,34499
+rt limited (se6) hyper silver and dark 000g1pa00,rt limited (se6),hyper silver and dark,0G1PA,850,1000,549,34499
+rt limited (se6) deep marsala metallic and platinum 000b9pc00,rt limited (se6),deep marsala metallic and platinum,0B9PC,850,1000,549,36299
+rt limited (se6) hyper silver and platinum 000b9pa00,rt limited (se6),hyper silver and platinum,0B9PA,850,1000,549,36299
+rt limited (se6) carbon black and platinum 000b9pb00,rt limited (se6),carbon black and platinum,0B9PB,850,1000,549,36299
+rt sea-to-sky (se6) green shadow and prosecco 000g2pa00,rt sea-to-sky (se6),green shadow and prosecco,0G2PA,850,1000,549,37499
+"ryker (600 ace) classic, epic or exclusive panel color options** 000f1pa00",ryker (600 ace),"classic, epic or exclusive panel color options**",0F1PA,625,700,549,11399
+"ryker (900 ace) classic, epic or exclusive panel color options** 000f2pa00",ryker (900 ace),"classic, epic or exclusive panel color options**",0F2PA,625,700,549,13599
+"ryker sport (900 ace) classic, epic or exclusive panel color options** 000f5pa00",ryker sport (900 ace),"classic, epic or exclusive panel color options**",0F5PA,625,700,549,15099
+"ryker rally (900 ace) classic, epic or exclusive panel color options** 000f3pa00",ryker rally (900 ace),"classic, epic or exclusive panel color options**",0F3PA,625,700,549,17499
+LT-A750XM3 Flame Red (YT9),LT-A750XM3,Flame Red (YT9),,350,100,Non-Power Steering,
+LT-A750XPM3 Flame Red (YT9),LT-A750XPM3,Flame Red (YT9),,350,100,"Power Steering, Carrier Covers",
+LT-A750XPM3 Terra Green(YLG),LT-A750XPM3,Terra Green(YLG),,350,100,"Power Steering, Carrier Covers",
+LT-A750XPZM3 Great Blue (YPW),LT-A750XPZM3,Great Blue (YPW),,350,100,"Power Steering, Mag wheels,
+Carrier Covers",
+LT-A750XPZSM3 Metallic Mat Rocky Gray(QTF),LT-A750XPZSM3,Metallic Mat Rocky Gray(QTF),,350,100,"Power Steering,Special Colour,
+Mag wheels, Carrier Covers",
+LT-A750XPZSM3 Cast Carbon(QZ8),LT-A750XPZSM3,Cast Carbon(QZ8),,350,100,"""Power Steering,Special Colour,
+Mag wheels, Carrier Covers""",
+LT-A750XPZCM3 True Timber Kanati(QTM),LT-A750XPZCM3,True Timber Kanati(QTM),,350,100,"Power Steering, Special Colour,
+Mag wheels, Carrier Covers",
+500 Series,500 Series,,,,,,
+LT-A500XM3 Terra Green(YLG),LT-A500XM3,Terra Green(YLG),,350,100,Non-Power Steering,
+LT-A500XPM3 Flame Red(YT9),LT-A500XPM3,Flame Red(YT9),,350,100,"Power Steering, Carrier Covers",
+LT-A500XPM3 Terra Green(YLG),LT-A500XPM3,Terra Green(YLG),,350,100,,
+LT-A500XPZM3 Great Blue (YPW),LT-A500XPZM3,Great Blue (YPW),,350,100,"Power Steering,Mag Wheels,
+Carrier Covers",
+LT-A500XPZSM3 Metallic Mat Rocky Gray(QTF),LT-A500XPZSM3,Metallic Mat Rocky Gray(QTF),,350,100,"Power Steering, Special Colour,
+Mag Wheels, Carrier Covers",
+LT-A500XPZSM3 Cast Carbon(QZ8),LT-A500XPZSM3,Cast Carbon(QZ8),,350,100,"Power Steering, Special Colour,
+Mag Wheels, Carrier Covers",
+LT-A500XPZCM3 True Timber Kanati(QTM),LT-A500XPZCM3,True Timber Kanati(QTM),,350,100,"Power Steering,Special Colour,
+Black Mag Wheels, Carrier Covers",
+400 Series,400 Series,,,,,,
+LT-A400FSM3 Metallic Mat Rocky Gray(QTF),LT-A400FSM3,Metallic Mat Rocky Gray(QTF),,350,100,Automatic,
+LT-A400FM3 Flame Red(YT9),LT-A400FM3,Flame Red(YT9),,350,100,Automatic,
+LT-F400FM3 Terra Green(YLG),LT-F400FM3,Terra Green(YLG),,350,100,Manual,
+KIDS ATV's ,KIDS ATV's,,,,,,
+LT-Z90M3 Champion Yellow No 2 (YU1),LT-Z90M3,Champion Yellow No 2 (YU1),,250,50,"Electric Start,Throttle Limiter, 6.0L Fuel Tank.",
+LT-Z50M3 Champion Yellow No 2 (YU1),LT-Z50M3,Champion Yellow No 2 (YU1),,250,50,"Electric Start, Throttle Limiter, 6.0L Fuel Tank."
